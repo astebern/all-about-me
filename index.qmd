@@ -1,6 +1,8 @@
-# ꦱꦸꦒꦺꦤ꧀ꦒ꧀ ꦫꦮꦸꦃ {.unnumbered}
+# ꦱꦸꦒꦺꦁꦫꦮꦸꦃ {.unnumbered}
 
-![About Me](images/AZRL.png){width=950%}
+![](images/banner.png){width=950%}
 
-Lahir dan tumbuh di lingkungan Jawa konservatif, tetapi membenci budaya dan kehidupan yang demikian. Sampai akhirnya pergi berkelana dan mulai mencintai apa yang dulunya ia benci. 
-Karena Jawa adalah kunci.
+Website ini dibuat untuk memenuhi tugas mata kuliah II2100 Komunikasi Interpersonal dan Publik pada Program Studi Sistem dan Teknologi Informasi– Institut Teknologi Bandung (ITB).
+
+Seekor makhluk endemik Boyolali yang bentuknya mirip truwelu pernah berkata kepadaku sambil mulutnya mencengkram jenazah seekor lele:
+"pasi papasi, pasi papa kasi A dong pak"
