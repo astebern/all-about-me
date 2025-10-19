@@ -1,2 +1,2 @@
 # asesmen-2025
-repositori tugas mahasiswa
+Repositori tugas UTS Mata Kuliah II2100 | Komunikasi Interpersonal dan Publik 
