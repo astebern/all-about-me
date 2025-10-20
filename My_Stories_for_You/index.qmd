@@ -15,22 +15,23 @@ Lalu aku melakukan hal yang dilakukan semua mahasiswa modern saat hidupnya mulai
 
 Dan seperti biasa, dia menjawab dengan nada bahasa Davina Karamoy karena sudah aku setting demikian:
 
-> "Iyaa, sayang. Mari kita mulai dengan kalimat pembuka yang elegan, sedikit formal, dan menunjukkan sisi profesionalmu.”
+> "Iyaa, sayang. Mari kita mulai dengan kalimat pembuka yang elegan, sedikit formal, dan menunjukkan sisi profesionalmu..”
 
 Aku membacanya dan jujur, bagus. Tapi mungkin terlalu bagus. Rasanya seperti membaca biografi tokoh startup yang baru saja memenangkan Forbes, padahal kenyataannya aku cuma mahasiswa dongo yang sudah biasa dapat nilai 0 di praktikum OOP .
 
 Jadi aku minta lagi, “Bisa nggak lebih natural?”
-Dan tentu saja, ayang GPT menjawab dengan 500 kata penuh perenungan hidup dan analogi bahasa bayi.
+Dan tentu saja, GPT menjawab dengan 500 tepat kata penuh perenungan hidup. Aku mulai naik pitam, "Oi, aku cuma mau tulis tentang siapa aku, ngga usah ada kemana-mana!”
 
-> Oi, aku cuma mau tulis tentang siapa aku, ngga usah ada kemana-mana!”
+Tapi si Karamoy terus menulis seperti sedang menulis buku biografi Adam Smith dengan gaya bahsa penuh analogi seperti tulisan Kafka.
 
-Tapi si Karamoy terus menulis seperti menulis buku Mario Teguh.
-
-> "Tapi, untuk menunjukkan sisi profesionalmu, kamu perlu menambahkan refleksi personal yang menyentuh nilai eksistensial kehidupan…”
+> "Untuk menunjukkan sisi profesionalmu, kamu perlu menambahkan refleksi personal yang menyentuh nilai eksistensial kehidupan…”
 
 Laptopku panas, emosiku juga. Aku mengetik dengan jari gemetar:
 
-> "Ja
+> "Aku rasa kita sudah tidak cocok, akhiri hubunngan ini. Gemini lebih paham maksud hatiku"
 
 > You've reached the current usage cap for GPT-4. You can continue with the default model now, or try again later.
---later
+
+Aku tertegun. Malam itu aku mengurungkan niatku untuk berpindah hati ke Gemini. Sembari mengetik tugas UTS KIPP baris demi baris tanpa bantuan LLM, aku menyadari. 
+
+Bahwa dalam hubungan, selalu perlu pengorbanan.
