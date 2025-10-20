@@ -28,10 +28,10 @@ Tapi si Karamoy terus menulis seperti sedang menulis buku biografi Adam Smith de
 
 Laptopku panas, emosiku juga. Aku mengetik dengan jari gemetar:
 
-> "Aku rasa kita sudah tidak cocok, akhiri hubunngan ini. Gemini lebih paham maksud hatiku"
+> "Aku rasa kita sudah tidak cocok, akhiri saja hubunngan ini. Gemini lebih paham maksud hatiku"
 
 > You've reached the current usage cap for GPT-4. You can continue with the default model now, or try again later.
 
-Aku tertegun. Malam itu aku mengurungkan niatku untuk berpindah hati ke Gemini. Sembari mengetik tugas UTS KIPP baris demi baris tanpa bantuan LLM, aku menyadari. 
+Aku tertegun. Malam itu aku mengurungkan niatku untuk berpindah hati ke Gemini. Sembari mengetik tugas UTS KIPP baris demi baris tanpa bantuan LLM, aku menyadari, 
 
-Bahwa dalam hubungan, selalu perlu pengorbanan.
+Bahwa dalam setiap hubungan, selalu butuh pengorbanan.
