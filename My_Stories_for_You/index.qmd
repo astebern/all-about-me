@@ -30,29 +30,7 @@ Tapi si Karamoy terus menulis seperti menulis buku Mario Teguh.
 
 Laptopku panas, emosiku juga. Aku mengetik dengan jari gemetar:
 
-> "Jancooo
+> "Ja
 
 > You've reached the current usage cap for GPT-4. You can continue with the default model now, or try again later.
-
-Aku mulai menulis ulang dengan gayaku sendiri. Aku tambahkan sedikit humor, seperti:
-
-Dan entah kenapa, kali ini tulisanku terasa lebih hidup. Lebih aku.
-
-Jam menunjukkan pukul 01.37 dini hari. Aku masih di depan laptop, dengan GitHub yang terus error setiap kali push commit karena “authentication failed” mengingatkanku pada cintaku yang gagal diautentikasi balik. Tapi aku tetap lanjut. 
-
-Sebelum tidur, aku membaca lagi halaman About Me itu. Ada rasa lega aneh di dada. Mungkin bukan karena tampilannya bagus — jauh dari itu — tapi karena untuk pertama kalinya, aku menulis sesuatu yang jujur, dan GPT membantu tanpa menghapus bagian manusianya.
-
-Aku menatap layar ChatGPT sekali lagi dan mengetik:
-
-“Terima kasih. Mungkin kamu nggak punya hati, tapi kamu berhasil bantu aku menulis dengan hati.”
-
-Dan seperti biasa, dia menjawab dengan bahasa default karena karakter :
-
-“Sama-sama! Senang bisa membantu.”
-
-Lalu ku-push commit terakhir dengan pesan:
-
-git commit -m "done, GPT"
-
-Dan malam itu, aku belajar satu hal:
-Bahwa dalam setiap hubungan, selalu butuh pengorbanan.
+--later
