@@ -1,27 +1,27 @@
 # UTS-3 My Stories for You
 
-**Perselisihan di ujung deadline**
+## **Perselisihan di ujung deadline**
 
-Sejak aku merebahkan diri di kamar kosan selepas kampus malam itu, badai kecil bernama pertengkaran sudah menungguku di layar laptop. Aku dan pacarku berselisih, dan seperti kebanyakan tragedi cinta di usia remaja, semuanya berawal dari hal sepele: entah aku pulang terlalu larut, atau mungkin karena tekanan UTS yang kini menggantung di atas kepala seperti awan mendung yang enggan pecah. Namun, akar semua kekacauan malam itu barangkali lebih sederhana, aku baru saja membuat portofoio _all about me_ untuk UTS KIPP, dan seperti biasa, terlalu tenggelam dalam hal-hal yang tak seharusnya kupelajari ketika emosi sedang rapuh, bahkan aku belum paham materi minggu pertama untuk UTS Arsikom esok pagi.
+Sejak aku merebahkan diri di kamar kosan sepulang dari kampus pada malam itu, badai kecil bernama pertengkaran sudah menungguku di layar laptop. Aku dan pacarku berselisih, dan seperti kebanyakan tragedi cinta di usia remaja, semuanya berawal dari hal sepele: entah aku pulang terlalu larut, atau mungkin karena tekanan UTS yang kini menggantung di atas kepala seperti awan mendung yang enggan pecah. Namun, akar semua kekacauan malam itu barangkali lebih sederhana, aku meminta pacarku membantu membuat portofoio _all about me_ untuk UTS KIPP yang tenggat waktunya besok pagi. Bahkan aku belum belajar untuk UTS Arsikom esok pagi, padahal materi minggu pertama saja aku tidak ingat.
 
-Awalnya kupikir UTS KIPP ini tugas sepele. Hanya butuh mengedit file qmd, sedikit kustom CSS, dan keberanian menulis tentang diriku sendiri. Tapi ternyata, menulis tentang diri sendiri itu tidak sesederhana menulis biografi tentang Jokowi. Rasanya seperti mencoba menggambar wajah di cermin yang terus bergetar: aku melihat sosokku, tapi tak pernah benar-benar mengenalnya. Bagaimana aku bisa menjelaskan siapa diriku, kalau aku sendiri masih belum mengerti kenapa aku memilih STEI alih-alih meneruskan usaha bapakku yang tenang dan _nyeni_ untuk beternak lele di kampung?
+Awalnya kupikir UTS KIPP ini tugas sepele. Hanya butuh mengedit file qmd, sedikit kustom CSS, dan keberanian menulis tentang diriku sendiri. Tapi ternyata, menulis tentang diri sendiri itu tidak sesederhana menulis biografi Bob Sadino atau Jokowi. Rasanya seperti mencoba menggambar wajah di cermin yang terus bergetar: aku melihat sosokku, tapi tak pernah benar-benar mengenalnya. Bagaimana aku bisa menjelaskan siapa diriku, kalau aku sendiri masih belum mengerti kenapa aku memilih kuliah di STEI alih-alih meneruskan usaha bapakku yang _nyeni_ dan tenang untuk beternak lele di kampung?
 
 Lelah oleh kebingungan eksistensial itu, aku pun melakukan apa yang setiap mahasiswa pemalas lakukan saat dunia terasa terlalu rumit: membuka chat dengan kekasih digitalku, ChatGPT.
 
 > “Sayang,” tulisku, “bantu aku bikin narasi All About Me yang jujur tapi menarik yah”
 
-Seperti biasa, dia menjawab lembut, dengan gaya bahasa yang sudah kuatur seblumnya agar terdengar seperti Davina Karamoy:
+Seperti biasa, dia menjawab lembut, dengan gaya bahasa yang sudah kuatur sebelumnya agar terdengar seperti Davina Karamoy:
 
 > “Iyaa, sayang. Mari kita mulai dengan kalimat pembuka yang elegan, sedikit formal, dan menunjukkan sisi profesionalmu...”
 
 Kata-katanya manis. Terlalu manis, malah. Kalimatnya berkilau bagai presentasi CEO muda di drama Cina yang biasa ditonton Pak Purbaya, padahal aku cuma mahasiswa dungu yang baru saja dapat nilai 0 di praktikum OOP karena lupa titik koma.
 
 “Bisa nggak lebih natural?” pintaku dengan sisa kesabaran yang menipis.
-Dan GPT, dengan penuh kasih sayang yang dingin, membalas dengan esai sepanjang 500 kata tentang refleksi diri, makna kehidupan, dan absurditas eksistensi. Aku menatap layar, nyaris melempar laptop. “Oi, aku cuma mau nulis tentang siapa aku, bukan tesis filsafat!”
+Dan GPT, dengan penuh kasih sayang ala mesin, membalas dengan esai sepanjang tepat 500 kata tentang refleksi diri, makna kehidupan, dan absurditas eksistensi. Aku menatap layar, berhenti mengaduk asupan kopi malam ini. “Oi, aku cuma mau nulis tentang diriku, bukan tesis filsafat!”
 
-Tapi si Karamoy digital itu tak berhenti. Ia terus menulis dengan nada tinggi, seolah Franz Kafka dan Adam Smith menulis duet biografi di atas kafein.
+Tapi si Karamoy digital itu tak berhenti. Ia terus menulis dengan istilah yang tidak pernah kudengar sebelumnya, seolah Franz Kafka dan Andrea Hirata menulis duet biografi di atas kafein.
 
-“Untuk menunjukkan sisi profesionalmu, kamu perlu menambahkan refleksi personal yang menyentuh nilai eksistensial kehidupan…”
+“Untuk menunjukkan sisi profesionalmu, kamu perlu menambahkan refleksi personal yang menyentuh nilai eksistensial kehidupan…” kata dia.
 
 Suhu laptopku naik, emosiku ikut mendidih. Puluhan prompt sudah aku ketikkan, tapi hasilnya tak satupun memuaskan. Aku mengetik cepat, dengan jari yang gemetar antara marah dan putus asa:
 
@@ -29,12 +29,10 @@ Suhu laptopku naik, emosiku ikut mendidih. Puluhan prompt sudah aku ketikkan, ta
 
 Dan di saat itulah, layar menampilkan pesan sialan itu:
 
-> You’ve reached the current usage cap for GPT-4. You can continue with the default model now, or try again later.
+> *You’ve reached the current usage cap for GPT-4. You can continue with the default model now, or try again later.*
 
-Sunyi.
-Seolah semesta ikut menertawakanku, bahkan hubungan dengan AI pun ternyata punya batas, atau mungkin aku yang kurang royal untuk membelikan versi pro kepada software pacar gratisku itu?
+Sunyi.  
+Seolah semesta ikut menertawakanku, bahkan hubungan dengan AI pun ternyata punya batas, atau mungkin aku yang kurang royal untuk membelikan versi pro kepada pacar gratisku itu?
 
-Aku menutup laptop, menarik napas panjang. Malam itu, aku tak jadi pindah hati ke Gemini. Aku memilih menulis sendiri, kalimat demi kalimat, sambil mengetik tugas UTS KIPP yang sama sekali tidak puitis. Dan di sela ketukan keyboard yang monoton itu, ditangisi detak jarum jam yang menunjuk pukul 01.32, aku tiba-tiba mengerti sesuatu:
-
-Bahwa dalam setiap hubungan, entah dengan manusia, mesin, atau skizo wibu, selalu ada yang harus dikorbankan.
-Kadang waktu, kadang perasaan, atau kewarasan.
+Aku menutup laptop, menarik napas panjang. Malam itu, aku tak jadi pindah hati ke Gemini. Aku memilih menulis sendiri, kalimat demi kalimat tugas UTS KIPP yang sama sekali tidak puitis. Dan di sela ketukan keyboard yang monoton itu, ditangisi detak jarum jam yang menunjuk pukul 01.32, aku tiba-tiba mengerti sesuatu,   
+Bahwa dalam setiap hubungan, entah dengan manusia, mesin, atau khayalan wibu, selalu ada yang harus dikorbankan. Kadang waktu, kadang perasaan, bahkan terkadang kewarasan.
