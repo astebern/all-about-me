@@ -2,7 +2,11 @@
 
 ![About Me](../images/IPBUGMUIITB.png){width=100%}
 
-Halo perkenalkan, aku Satria Guna Darma, lahir pada 11 Desember 2006 jam 04.21, empat menit setelah adzan subuh di masjid RSUD dr. Moewardi. Sejak lahir aku percaya bahwa “produktif rebahan” bukanlah kontradiksi, tapi bentuk evolusi manusia modern yang menemukan inspirasi di mimpi siang hari. Di saat orang lain mencari sinar matahari untuk semangat, aku justru mencari bulan di antara terik matahari. Mungkin karena dari kampus aku belajar, tidur di kelas pada siang hari adalah bentuk kenikmatan absolut mahasiswa ITB.
+Halo perkenalkan, aku Satria Guna Darma, lahir pada 11 Desember 2006 pukul 04.21, empat menit setelah adzan subuh di masjid RSUD dr. Moewardi terdengar. 
+Sejak lahir aku percaya bahwa “produktif rebahan” bukanlah kontradiksi, tapi bentuk evolusi manusia modern yang menemukan inspirasi pada mimpi di siang buta. 
+Mungkin karena dari kampus aku belajar, tidur di kelas pada siang hari adalah bentuk kenikmatan absolut mahasiswa ITB.
 
-Aku suka berpikir, tapi juga suka menunda berpikir, tergantung jam dan koneksi Wi-Fi. Hidupku berjalan seperti abstract method yang tidak di-_override_ : ada niat, tapi tidak dijalankan. Dan kalau terdengar aku berseru “jawa jawa jawa,” itu bukan sekadar teriakan rasis. Itu adalah mantra dari kampungku untuk warganya yang berjuang menyeimbangkan logika dan adat jawa, idealisme lulus sarjana dan keinginan ternak lele, serta warteg Bandung dan soto Boyolali. 
-
+Aku suka berpikir, tapi juga suka menunda berpikir, tergantung jam dan koneksi Wi-Fi. 
+Hidupku berjalan seperti abstract method di java yang tidak di-_override:_ ada niat, tapi tidak dijalankan. 
+Dan kalau terdengar aku berseru “jawa jawa jawa,” itu bukan sekadar teriakan rasis. 
+Karena di tempat aku lahir dan tumbuh, di lingkungan yang masih mempercayai primbon di atas astronomi, aku berjuang menyeimbangkan logika dan adat jawa, idealisme lulus sarjana dan keinginan ternak lele, serta warteg Bandung dan soto Boyolali. 
