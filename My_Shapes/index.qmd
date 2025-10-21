@@ -1,35 +1,52 @@
-# UTS-4 My SHAPE 
+# UTS-4 My SHAPE
 __(Spiritual Gifts, Heart, Abilities, Personality, Experiences)__
 
-Satria Guna Darma  
+Satria Guna Darma |
 18224011
 
-## Piagam Pribadi
+---  
 
+## Aspek My SHAPE
 | Aspek | Isi |
 |:------|:----|
-| **1. Kekuatan Khas (S)** | - Melihat sesuai dari berbagai sisi  <br> - Ingin dan dapat memahami sesuatu secara dasar dan mendalam  <br> - Tepat waktu <br> - Berpikir secara objektif, rasional, dan logis |
-| **2. Nilai Inti & Gairah (H)** | - Bertanggung jawab terutama terkait hal yang berhubungan dengan orang lain <br> - Bangga jika saya dan orang terdekat saya berhasil <br> - Bersemangat mempelajari hal baru dari dasar secara menyeluruh|
-| **3. Keterampilan Utama (A)** | - Hard Skills: Python, C/C++, SQL, Java <br> - Soft Skills: Kolaborasi, Time Management, Empati, Open-Minded |
-| **4. Profil Kepribadian (P)** | - Tipe MBTI: ISTP <br> - Gaya Kerja yang Disukai: Saya menyukai gaya kerja yang mandiri, berbasis praktik, dan fokus pada pemecahan masalah nyata. Saya belajar paling cepat lewat pengalaman langsung dan bekerja paling baik ketika diberi kebebasan untuk mencari solusi dengan cara saya sendiri. |
-| **5. Pelajaran Hidup Kunci (E)** | - Dari pengalaman mengerjakan berbagai proyek kuliah yang kompleks dan sering berubah arah, saya belajar bahwa fleksibilitas dan ketenangan berpikir jauh lebih penting daripada rencana yang sempurna. <br> - Dari pengalaman berdiskusi dan memperdalam konsep melalui eksplorasi mandiri, saya belajar bahwa pemahaman sejati datang bukan dari menghafal, tetapi dari keingintahuan dan kemampuan memecahkan masalah secara mandiri. |
+| **1. Spiritual Gifts: Kelebihan Khas (S)** | - Mampu melihat persoalan secara logis dan kreatif; cepat dalam mempelajari hal baru. <br> - Pendekatan pemecahan masalah yang utama adalah melalui analisis mendalam dan eksperimen praktis. <br> - Pendekatan berpikir: analitis, rasional, dan berorientasi pada solusi yang teruji. |
+| **2. Heart: Nilai Inti & Gairah (H)** | - Nilai inti: Kejujuran, tanggung jawab, dan menjaga hak orang lain. <br> - Gairah (passion) tinggi untuk mempelajari hal-hal baru secara berkelanjutan. <br> - Merasa puas dan termotivasi ketika dapat membantu orang lain dan mendapatkan apresiasi atas kontribusi yang diberikan. |
+| **3. Abilities: Keterampilan Utama (A)** | - **Hard Skills:** Desain, Programming (Python, C, C++, Java), Reporting & Analisis Data. <br> - **Tooling & Praktik:** Mahir menggunakan Excel dan berbagai *tools* data untuk analisis dan pelaporan. <br> - **Soft Skills:** Adaptasi tinggi terhadap lingkungan baru, empati dalam interaksi, dan keterampilan komunikasi yang efektif. |
+| **4. Personality: Profil Kepribadian (P)** | - **Tipe MBTI:** ISTJ. <br> - **Gaya Kerja yang Disukai:** Mandiri, berbasis praktik, dan fokus pada pemecahan masalah nyata. Belajar paling efektif melalui pengalaman langsung (learning-by-doing). <br> - Bekerja optimal bila diberi kebebasan untuk mencari solusi dengan cara sendiri yang terstruktur. |
+| **5. Experiences: Pelajaran Hidup Kunci (E)** | - Pengalaman merantau (misal: ke ITB) mengajarkan pelajaran kunci mengenai pentingnya dan kemampuan untuk beradaptasi terhadap lingkungan, budaya, dan tantangan baru. <br> - Pengalaman ini memperkuat kemampuan untuk mandiri, proaktif dalam menghadapi perubahan, dan ketangguhan pribadi. |
 
 ---
 
+## Piagam Diri (Self-Charter)
+**Misi Hidup:** Saya ingin tumbuh menjadi seseorang yang mampu mengubah rasa ingin tahu menjadi karya yang bermanfaat. Dalam setiap proses belajar dan berkarya, saya ingin menghadirkan makna — tidak hanya bagi hasil akhirnya, tetapi juga bagi orang-orang yang terlibat di dalamnya. Saya percaya bahwa teknologi dan pengetahuan hanya akan berarti jika digunakan untuk memudahkan hidup, menyalakan semangat belajar, dan membantu orang lain memahami dunia dengan cara yang lebih jernih.    
+**Nilai Inti:** kejujuran intelektual, Rasionalitas dan Empati, Kolaboratif.   
+**Peran Inti:** Sebagai Pembelajar akan menyelami pengetahuan dengan rasa ingin tahu. Sebagai pemecah masalah, akan mengubah kebingungan menjadi solusi yang terukur dan efisien.  
+**Kompas Keputusan:** Apakah ini mendekatkan saya pada versi terbaik dari diriku — yang tekun, tenang, dan berpikir jernih, serta hasilnya membawa manfaat nyata bagi orang lain, bukan hanya kepuasan sesaat?   
+**Janji Pelayanan:**   Saya berjanji untuk menggunakan kemampuan analitis dan teknologi yang saya miliki bukan hanya untuk mengejar nilai atau prestasi pribadi, tetapi juga untuk menciptakan solusi, wawasan, atau pengetahuan yang bisa membantu orang lain memahami sesuatu dengan lebih baik.
+Saya ingin menjadi penghubung antara kompleksitas dan kejelasan — menjelaskan yang rumit, menyederhanakan yang membingungkan, dan memanusiakan yang terlalu teknis.  
+**Batasan:**  Saya tidak ingin kehilangan arah dengan mengejar kesempurnaan semu;
+Saya menolak untuk bekerja tanpa makna, berbicara tanpa substansi, atau belajar tanpa pemahaman;
+Saya akan menjaga keseimbangan antara ambisi dan istirahat, antara hasil dan proses, antara logika dan kemanusiaan;
+Saya memilih untuk tetap realistis — karena dari realitaslah mimpi yang bermakna tumbuh.
+
 ## Pernyataan Misi Pribadi
 
-> “Saya berkomitmen untuk menyalakan semangat belajar dan keberanian dalam setiap orang yang saya temui, agar mereka menemukan cahaya dan makna dalam dirinya sendiri.”
+> “Saya berkomitmen untuk terus mengasah kemampuan teknis dan berpikir kritis, serta berbagi proses pembelajaran secara jujur—agar ide sederhana bisa diuji, diperbaiki, dan pada akhirnya memberi manfaat nyata bagi diri sendiri dan orang lain.”
 
 ---
 
 ## Identitas Naratif
 
-Aku adalah seseorang yang belajar dengan melakukan. Bagiku, dunia adalah tempat untuk dijelajahi, bukan sekadar dipelajari lewat teori. Aku suka memahami bagaimana sesuatu bekerja, memecahkannya, lalu menemukan cara baru untuk membuatnya lebih efisien. Dalam proses itu, aku menemukan kepuasan tersendiri ketika melihat ide berubah menjadi sesuatu yang nyata.
+Aku adalah seorang yang belajar melalui praktik dan analisis. Aku menghargai logika, struktur, dan fakta (sesuai profil ISTJ-ku), dan merasa paling berkembang ketika bisa mengurai masalah nyata—entah itu dalam bentuk desain visual, analisis data yang kompleks, atau saat menyusun laporan yang informatif. Aku sangat menikmati proses belajar hal baru, terutama jika itu bisa langsung diterapkan dan terbukti berhasil.
 
-Aku bekerja paling baik ketika diberi ruang untuk bereksperimen dan menemukan solusi dengan caraku sendiri. Aku tidak takut mencoba hal baru atau menghadapi situasi yang belum pernah terjadi sebelumnya. Saat masalah muncul, aku tetap tenang dan fokus mencari jalan keluar yang logis dan cepat. Aku percaya bahwa tindakan yang tepat sering lebih berharga daripada banyak kata.
+Gaya kerjaku sangat mandiri dan terstruktur. Aku belajar paling cepat saat mencoba langsung—*learning by doing*—dan aku bekerja paling baik saat diberi kebebasan untuk menemukan solusi dengan caraku sendiri, yang biasanya melibatkan analisis dan eksperimen. Aku terbiasa bekerja dengan data, menggunakan *tools* seperti Excel, dan kemampuan komunikasi serta empati membantuku saat harus berkolaborasi dengan orang lain.
 
-Meskipun tampak mandiri, aku menghargai kolaborasi dengan orang yang memiliki semangat dan kompetensi serupa. Aku belajar banyak dari orang-orang yang berpikir berbeda dariku, selama kami punya tujuan yang sama. Aku tidak suka keramaian tanpa arah, tapi aku menikmati kerja sama yang konkret dan saling melengkapi.
+Di luar urusan teknis, aku didorong oleh rasa tanggung jawab dan kejujuran yang kuat. Aku merasa paling puas ketika hasil kerjaku, baik itu analisis atau desain, bisa benar-benar membantu orang lain dan kontribusi itu dihargai. Pengalaman besar seperti merantau sangat membentukku; itu memaksaku untuk cepat beradaptasi, mengasah ketangguhan, dan memperkuat kemandirianku.
 
-Setiap pengalaman mengajarkanku untuk lebih tangguh dan adaptif. Aku mungkin tidak selalu bicara banyak, tetapi setiap keputusan yang kuambil selalu berdasarkan pemikiran yang matang. Aku ingin terus tumbuh sebagai seseorang yang mampu mengubah ide menjadi tindakan dan menjadikan setiap langkah kecil sebagai bagian dari pencapaian yang lebih besar.
+Intinya: aku seorang praktisi yang analitis dan bertanggung jawab. Aku percaya pada proses yang jujur dan kerja keras yang nyata. Tujuanku adalah terus menghubungkan logika dan kreativitas, sehingga setiap hal baru yang kupelajari bisa memberi manfaat konkret bagi orang di sekitarku.
 
 ---
+
+## Kesimpulan SHAPE
+
+Gabungan kekuatan (S) dalam analisis logis dan kreativitas, nilai (H) pada tanggung jawab dan kejujuran, keterampilan (A) di bidang desain, programming, dan analisis data, kepribadian (P) ISTJ yang mandiri dan praktis, serta pengalaman (E) adaptasi dari merantau, membentuk seorang individu yang terstruktur, cepat belajar, dan berorientasi pada hasil nyata. SHAPE ini menjadi dasar arah pengembangan: fokus pada penguatan kompetensi analitis dan desain, meningkatkan kolaborasi tim, serta menjaga integritas dalam setiap kontribusi untuk membantu orang lain secara efektif.

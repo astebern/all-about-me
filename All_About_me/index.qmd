@@ -1,8 +1,10 @@
-# UTS-1 All About Me
+# UTS-1 All About Me  
 
 ![About Me](../images/IPBUGMUIITB.png){width=100%}
 
-Halo perkenalkan, aku Satria Guna Darma, lahir pada 11 Desember 2006 pukul 04.19, dua menit sebelum azan subuh di masjid RSUD dr. Moewardi terdengar. Mungkin karena lahir di saat setan menggoda manusia untuk lanjut tidur dan meninggalkan salat, aku percaya bahwa “produktif rebahan” bukanlah kontradiksi, tapi bentuk evolusi manusia modern yang menemukan inspirasi pada mimpi di siang hari. 
+
+## Satria Guna Darma
+Perkenalkan, aku Satria Guna Darma, lahir pada 11 Desember 2006 pukul 04.19, dua menit sebelum azan subuh di masjid RSUD dr. Moewardi terdengar. Mungkin karena lahir di waktu setan menggoda manusia untuk lanjut tidur dan meninggalkan salat, aku percaya bahwa “produktif rebahan” bukanlah kontradiksi, tapi bentuk evolusi manusia modern yang menemukan inspirasi pada mimpi di siang hari. 
 Mungkin juga karena dari kampusku aku belajar, tidur di kelas pada siang buta adalah bentuk kenikmatan absolut seorang mahasiswa.
 
 Aku suka berpikir, tapi juga suka menunda berpikir, tergantung jam dan koneksi Wi-Fi. 
@@ -10,3 +12,14 @@ Hidupku berjalan seperti abstract method di java yang tidak di-_override:_ ada n
 Dan kalau terdengar aku berseru “aku Jawa dan aku bangga”, itu bukan sekadar teriakan rasial. 
 Karena di tempat aku tumbuh, di masyarakat yang lebih memercayai primbon di atas astronomi, aku berjuang menyeimbangkan logika dan adat mistika, idealisme lulus sarjana dan keinginan ternak lele, serta ndoro putri Jawa dan teteh Sunda.  
 Dan di antara polemik hati tersebut aku percaya, sound horeg itu hama.
+
+## Minat & Keahlian
+- 🎯 **Hobi & Aktivitas:** Catur, Badminton, Desain  
+- ⚙️ **Tools:** Git, Excel, LaTeX, Power BI, Auto CAD  
+- 🌐 **Bahasa:** Bahasa Indonesia (native), Jawa (native), English (proficient), 日本語 (elementary), Русский (elementary)
+- 💻 **Pemrograman:** Python, C, C++, Java, SQL
+
+## Kenal Lebih Dekat  
+- **📧Email:** [satriaguna06@gmail.com](mailto:satriaguna06@gmail.com)  
+- **💼LinkedIn:** [satria guna darma](https://www.linkedin.com/in/satria-guna-darma)
+- **📸Instagram:** [asatd_](https://www.instagram.com/asatd_)
