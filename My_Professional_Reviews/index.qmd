@@ -67,9 +67,10 @@ UAS-1 (My Concept), UAS-2 (My Opinions), UAS-3 (My Innovations), UAS-4 (My Knowl
 | Refleksi terhadap pembelajaran | 4 | Menunjukkan kesadaran akan keterbatasan dan proses belajar berkelanjutan. |
 
 **Rata-rata UAS-4: 4.2**  
+
 ---
 
-## Rangkuman Nilai Akhir
+## **Rangkuman Nilai Akhir**  
 
 | UTS | Rata-rata | /100% |
 |:--|:--:|:--|
