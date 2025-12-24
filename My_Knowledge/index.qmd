@@ -27,13 +27,7 @@ Aku memandang knowledge sebagai sesuatu yang **berlapis dan saling terhubung**, 
 
 Dari sini, knowledge-ku aku kelompokkan menjadi beberapa lapisan inti.
 
-<!-- TODO: TARUH GAMBAR 1 DI SINI
-Deskripsi: "Knowledge Layers Overview" — diagram berlapis (layered diagram):
-System Foundation → Data & AI → Human & Ethics.
-Saran format: layered stack atau concentric circles.
-Contoh pemakaian:
-![](images/knowledge-layers.png){fig-alt="Knowledge layers" fig-cap="Lapisan pengetahuan yang menopang sistem secara menyeluruh."}
--->
+![](../images/image9.1.png){width=100%}
 
 ---
 

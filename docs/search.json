@@ -294,7 +294,7 @@
     "href": "My_Concepts/index.html",
     "title": "6  UAS-1: My Concept",
     "section": "",
-    "text": "6.1 My Concept",
+    "text": "6.1 My Concept\nDi era Artificial Intelligence, tantangan terbesar bukan lagi “kurang informasi”, melainkan kebanjiran informasi. Mahasiswa (terutama mahasiswa IT) sering punya banyak sumber data: jadwal kuliah, deadline di LMS, catatan tugas, catatan pengeluaran harian, sampai target akademik pribadi. Masalahnya, data itu tersebar, tidak terhubung, dan akhirnya tidak membantu saat harus mengambil keputusan harian: hari ini fokus apa? minggu ini berat atau tidak? pengeluaran aman atau kebablasan?\nKonsep masterpiece yang ingin aku bangun adalah sebuah enterprise system kampus yang bertindak sebagai “jembatan” antara data akademik dan data finansial mahasiswa, untuk menghasilkan arah tindakan yang sederhana dan mudah dipakai. Bukan sistem yang membuat mahasiswa “lebih sibuk”, tetapi sistem yang membuat keputusan harian menjadi lebih ringan.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1: My Concept</span>"
     ]
@@ -904,7 +904,7 @@
     "href": "My_Concepts/index.html#my-concept",
     "title": "6  UAS-1: My Concept",
     "section": "",
-    "text": "6.1.1 AI-Enhanced Student Success System (Enterprise System Kampus)\nDi era Artificial Intelligence, tantangan terbesar bukan lagi “kurang informasi”, melainkan kebanjiran informasi. Mahasiswa (terutama mahasiswa IT) sering punya banyak sumber data: jadwal kuliah, deadline di LMS, catatan tugas, catatan pengeluaran harian, sampai target akademik pribadi. Masalahnya, data itu tersebar, tidak terhubung, dan akhirnya tidak membantu saat harus mengambil keputusan harian: hari ini fokus apa? minggu ini berat atau tidak? pengeluaran aman atau kebablasan?\nKonsep masterpiece yang ingin aku bangun adalah sebuah enterprise system kampus yang bertindak sebagai “jembatan” antara data akademik dan data finansial mahasiswa, untuk menghasilkan arah tindakan yang sederhana dan mudah dipakai. Bukan sistem yang membuat mahasiswa “lebih sibuk”, tetapi sistem yang membuat keputusan harian menjadi lebih ringan.",
+    "text": "AI-Enhanced Student Success System (Enterprise System Kampus)",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1: My Concept</span>"
     ]

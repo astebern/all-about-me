@@ -9,7 +9,7 @@ format:
 ---
 
 ## My Concept
-### AI-Enhanced Student Success System (Enterprise System Kampus)
+> AI-Enhanced Student Success System (Enterprise System Kampus)
 
 Di era Artificial Intelligence, tantangan terbesar bukan lagi “kurang informasi”, melainkan **kebanjiran informasi**. Mahasiswa (terutama mahasiswa IT) sering punya banyak sumber data: jadwal kuliah, deadline di LMS, catatan tugas, catatan pengeluaran harian, sampai target akademik pribadi. Masalahnya, data itu tersebar, tidak terhubung, dan akhirnya tidak membantu saat harus mengambil keputusan harian: *hari ini fokus apa? minggu ini berat atau tidak? pengeluaran aman atau kebablasan?*
 

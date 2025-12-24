@@ -26,13 +26,7 @@ Sistem ini dirancang sebagai **decision-support system**, bukan sistem yang meng
 
 Inovasi ini memanfaatkan AI bukan untuk “menjadi pintar”, tetapi untuk **menghubungkan konteks akademik dan finansial** agar mahasiswa bisa mengambil keputusan dengan lebih sadar.
 
-<!-- TODO: TARUH GAMBAR 1 DI SINI
-Deskripsi: "Innovation Overview" — ilustrasi sederhana yang menunjukkan mahasiswa di tengah,
-dikelilingi oleh Academic Context dan Financial Context, lalu diarahkan ke Decision Support.
-Saran format: diagram konseptual dengan ikon mahasiswa sebagai pusat.
-Contoh pemakaian:
-![](images/innovation-overview.png){fig-alt="Innovation overview" fig-cap="Inovasi sistem yang memusatkan keputusan pada mahasiswa."}
--->
+![](../images/image8.1.png){width=100%}
 
 ---
 

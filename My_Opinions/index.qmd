@@ -15,13 +15,7 @@ Artificial Intelligence sering diposisikan sebagai teknologi yang “paling pint
 
 Aku melihat banyak sistem digital gagal bukan karena kurang data atau kurang AI, tetapi karena tidak benar-benar memahami **kebutuhan pengguna di level sehari-hari**.
 
-<!-- TODO: TARUH GAMBAR 1 DI SINI
-Deskripsi: "AI in the Workflow (Not a Standalone Tool)" — ilustrasi sederhana yang membandingkan 2 pendekatan:
-(1) AI standalone (di luar alur sistem) vs (2) AI embedded (di dalam alur LMS/portal).
-Saran format: diagram dua kolom dengan panah workflow, minimalis.
-Contoh pemakaian:
-![](images/ai-workflow.png){fig-alt="AI in the workflow" fig-cap="AI lebih berguna ketika tertanam di alur sistem, bukan berdiri sendiri."}
--->
+![](../images/image7.1.png){width=100%}
 
 ---
 
