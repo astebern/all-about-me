@@ -1,3 +1,133 @@
-## UAS-3 My Opinions
+---
+title: "UAS-2: My Opinions"
+subtitle: "My Perspective on AI-Driven Enterprise Systems for Students"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+---
 
-*Soon*
+## My Opinions
+> My Perspective on AI in Enterprise Systems for Students
+
+Artificial Intelligence sering diposisikan sebagai teknologi yang “paling pintar”, seolah-olah semakin kompleks modelnya, semakin baik sistemnya. Namun menurutku, dalam konteks **enterprise system untuk mahasiswa**, nilai utama AI bukan terletak pada kecanggihannya, melainkan pada **kemampuannya membantu pengambilan keputusan yang nyata dan kontekstual**.
+
+Aku melihat banyak sistem digital gagal bukan karena kurang data atau kurang AI, tetapi karena tidak benar-benar memahami **kebutuhan pengguna di level sehari-hari**.
+
+<!-- TODO: TARUH GAMBAR 1 DI SINI
+Deskripsi: "AI in the Workflow (Not a Standalone Tool)" — ilustrasi sederhana yang membandingkan 2 pendekatan:
+(1) AI standalone (di luar alur sistem) vs (2) AI embedded (di dalam alur LMS/portal).
+Saran format: diagram dua kolom dengan panah workflow, minimalis.
+Contoh pemakaian:
+![](images/ai-workflow.png){fig-alt="AI in the workflow" fig-cap="AI lebih berguna ketika tertanam di alur sistem, bukan berdiri sendiri."}
+-->
+
+---
+
+## AI Seharusnya Menjadi Decision Support, Bukan Decision Maker
+
+Dalam sistem kampus, AI tidak seharusnya mengambil alih keputusan mahasiswa. Keputusan akademik dan finansial selalu memiliki aspek manusia: kondisi mental, preferensi pribadi, dan situasi yang tidak selalu bisa dimodelkan secara sempurna.
+
+Menurutku, peran AI yang ideal adalah:
+- membantu **meringkas situasi kompleks**,
+- menunjukkan **opsi yang masuk akal**,
+- dan menjelaskan **konsekuensi dari tiap opsi**.
+
+Keputusan akhir tetap berada di tangan pengguna. Dengan begitu, sistem tidak menghilangkan agency mahasiswa, justru memperkuatnya.
+
+<!-- TODO: TARUH GAMBAR 2 DI SINI
+Deskripsi: "Human-in-the-Loop Decision Support" — diagram sederhana:
+Data → AI suggestion → User chooses/edits → Outcome.
+Saran format: flowchart 4 langkah + ikon manusia di tahap keputusan.
+Contoh pemakaian:
+![](images/hitl.png){fig-alt="Human in the loop" fig-cap="AI memberi saran, manusia tetap memutuskan."}
+-->
+
+---
+
+## Integrasi Sistem Lebih Penting daripada Sekadar AI
+
+Banyak aplikasi AI terlihat canggih, tetapi berdiri sendiri tanpa terhubung ke sistem yang sudah ada. Dalam konteks kampus, ini menjadi masalah besar.
+
+Pendapatku:
+- AI yang tidak terintegrasi dengan **enterprise system kampus** (LMS, portal akademik, jadwal resmi) hanya akan menjadi alat tambahan, bukan solusi.
+- Nilai terbesar justru muncul ketika AI ditempatkan **di dalam alur sistem yang sudah digunakan sehari-hari**.
+
+Karena itu, aku memandang AI bukan sebagai pusat sistem, melainkan sebagai **lapisan pendukung** yang memperkaya sistem informasi yang sudah ada.
+
+---
+
+## Usability Adalah Syarat Mutlak, Bukan Bonus
+
+Sebagai mahasiswa IT, aku sering melihat sistem kampus yang “lengkap fiturnya” tetapi jarang dipakai. Menurutku, ini bukan masalah teknologi, melainkan masalah desain.
+
+Beberapa prinsip yang menurutku krusial:
+- Sistem harus membantu pengguna **lebih cepat mengambil keputusan**, bukan menambah beban kognitif.
+- Tampilan ringkas lebih bernilai daripada laporan panjang.
+- Rekomendasi yang sedikit tapi relevan lebih berguna daripada banyak tapi membingungkan.
+
+Jika sebuah sistem berbasis AI tidak membuat hidup pengguna lebih sederhana, maka sistem tersebut gagal, meskipun secara teknis sangat canggih.
+
+<!-- TODO: TARUH GAMBAR 3 DI SINI
+Deskripsi: "Usability Pyramid" — visual kecil tentang prioritas: Clarity > Speed > Features.
+Saran format: piramida 3 level atau stacked blocks, minimalis.
+Contoh pemakaian:
+![](images/usability-pyramid.png){fig-alt="Usability priority" fig-cap="Dalam sistem untuk mahasiswa, kejelasan lebih penting daripada banyak fitur."}
+-->
+
+---
+
+## Personalisasi Boleh, Tapi Privasi Tidak Boleh Dikorbankan
+
+AI sering dikaitkan dengan personalisasi. Aku setuju bahwa personalisasi penting, tetapi dalam sistem yang menyentuh data akademik dan finansial, **privasi harus menjadi desain awal, bukan pemikiran belakangan**.
+
+Pendapatku:
+- Data sensitif seharusnya bersifat *opt-in*, bukan *default on*.
+- Pengguna perlu tahu **kenapa sistem memberi rekomendasi tertentu**, bukan hanya menerima hasilnya.
+- Transparansi sederhana lebih penting daripada algoritma yang sepenuhnya “black box”.
+
+Dengan pendekatan ini, kepercayaan pengguna bisa dibangun tanpa mengorbankan manfaat AI.
+
+<!-- TODO: TARUH GAMBAR 4 DI SINI
+Deskripsi: "Privacy-by-Design" — diagram kecil:
+User Consent (opt-in) → Minimal Data → Clear Explanation → Trust.
+Saran format: 4 langkah dengan ikon kunci/lock, checklist, dan trust.
+Contoh pemakaian:
+![](images/privacy-by-design.png){fig-alt="Privacy by design" fig-cap="Privasi dibangun dari awal: izin pengguna, data minimal, dan penjelasan yang jelas."}
+-->
+
+---
+
+## Dampak Sosial Lebih Penting daripada Sekadar Efisiensi
+
+Banyak sistem dinilai sukses karena meningkatkan efisiensi. Namun, dalam konteks mahasiswa, aku melihat indikator sukses yang lebih luas.
+
+Sistem yang baik menurutku adalah sistem yang:
+- membantu mahasiswa **mengurangi stres akibat ketidakpastian**,
+- mencegah masalah finansial kecil berkembang menjadi masalah besar,
+- dan memberi rasa kontrol terhadap hidup akademik mereka sendiri.
+
+Jika sebuah sistem AI hanya membuat proses lebih cepat tetapi membuat pengguna merasa tertekan atau diawasi, maka dampak sosialnya patut dipertanyakan.
+
+<!-- TODO: TARUH GAMBAR 5 DI SINI
+Deskripsi: "Impact Metrics" — visual sederhana yang menunjukkan ukuran dampak:
+Stress ↓, Stability ↑, Control ↑ (bisa pakai ikon meter/arrow).
+Saran format: 3 indikator dengan panah naik/turun, minimalis.
+Contoh pemakaian:
+![](images/impact-metrics.png){fig-alt="Impact metrics" fig-cap="Dampak sosial yang diharapkan: stres turun, stabilitas naik, dan kontrol diri meningkat."}
+-->
+
+---
+
+## Ringkasan Pandangan Pribadi
+
+Sebagai penutup, inilah pegangan utamaku dalam melihat AI di enterprise system kampus:
+
+1. AI harus mendukung keputusan, bukan menggantikannya.  
+2. Integrasi sistem lebih penting daripada kecanggihan algoritma.  
+3. Usability adalah kunci adopsi nyata.  
+4. Privasi dan transparansi adalah fondasi kepercayaan.  
+5. Dampak sosial adalah ukuran keberhasilan jangka panjang.
+
+Pandangan inilah yang menjadi dasar ketika aku memikirkan inovasi dan solusi nyata berbasis sistem dan teknologi informasi di era Artificial Intelligence.
