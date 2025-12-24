@@ -14,7 +14,7 @@ UAS-1 (My Concept), UAS-2 (My Opinions), UAS-3 (My Innovations), UAS-4 (My Knowl
 
 ---
 
-### **UAS-1 — My Concept**
+## **UAS-1 — My Concept**
 
 | Kriteria Penilaian | Nilai | Catatan Penilai |
 |---|---:|---|
@@ -24,14 +24,11 @@ UAS-1 (My Concept), UAS-2 (My Opinions), UAS-3 (My Innovations), UAS-4 (My Knowl
 | Batasan dan ruang lingkup | 5 | Scope dan non-scope dijelaskan dengan tegas sehingga konsep tidak melebar. |
 | Koherensi antar bagian | 4 | Alur penjelasan runtut dan mudah diikuti. |
 
-**Rata-rata UAS-1:**  
-\[
-\frac{90 + 88 + 92 + 90 + 89}{5} = \mathbf{89.8}
-\]
+**Rata-rata UAS-1: 4.4**  
 
 ---
 
-### **UAS-2 — My Opinions**
+## **UAS-2 — My Opinions**
 
 | Kriteria Penilaian | Nilai | Catatan Penilai |
 |---|---:|---|
@@ -41,14 +38,11 @@ UAS-1 (My Concept), UAS-2 (My Opinions), UAS-3 (My Innovations), UAS-4 (My Knowl
 | Relevansi dengan konteks mahasiswa | 5 | Isu yang diangkat dekat dengan realitas mahasiswa IT. |
 | Kedalaman analisis | 5 | Analisis cukup dalam tanpa menjadi terlalu teknis. |
 
-**Rata-rata UAS-2:**  
-\[
-\frac{91 + 90 + 88 + 92 + 89}{5} = \mathbf{90.0}
-\]
+**Rata-rata UAS-2: 4.6**  
 
 ---
 
-### **UAS-3 — My Innovations**
+## **UAS-3 — My Innovations**
 
 | Kriteria Penilaian | Nilai | Catatan Penilai |
 |---|---:|---|
@@ -58,14 +52,11 @@ UAS-1 (My Concept), UAS-2 (My Opinions), UAS-3 (My Innovations), UAS-4 (My Knowl
 | Nilai tambah (impact & usability) | 4 | Dampak sosial dan kemudahan penggunaan menjadi kekuatan utama. |
 | Struktur dan alur penjelasan | 5 | Penjelasan sistematis dan mudah divisualisasikan. |
 
-**Rata-rata UAS-3:**  
-\[
-\frac{90 + 91 + 88 + 92 + 89}{5} = \mathbf{90.0}
-\]
+**Rata-rata UAS-3: 4.4**  
 
 ---
 
-### **UAS-4 — My Knowledge**
+## **UAS-4 — My Knowledge**
 
 | Kriteria Penilaian | Nilai | Catatan Penilai |
 |---|---:|---|
@@ -75,31 +66,28 @@ UAS-1 (My Concept), UAS-2 (My Opinions), UAS-3 (My Innovations), UAS-4 (My Knowl
 | Kesadaran aspek human & ethics | 4 | Aspek etika dan human-centered design diperhatikan secara eksplisit. |
 | Refleksi terhadap pembelajaran | 4 | Menunjukkan kesadaran akan keterbatasan dan proses belajar berkelanjutan. |
 
-**Rata-rata UAS-4:**  
-\[
-\frac{92 + 90 + 89 + 91 + 88}{5} = \mathbf{90.0}
-\]
+**Rata-rata UAS-4: 4.2**  
+---
+
+## Rangkuman Nilai Akhir
+
+| UTS | Rata-rata | /100% |
+|:--|:--:|:--|
+| **UAS-1 My Concept** | 4.4 | 88% |
+| **UAS-2 My Opinions** | 4.6 | 92% |
+| **UAS-3 My Innovations** | 4.4 | 88% |
+| **UAS-4 My Knowledge** | 4.2 | 84% |
+| **Rata-rata Keseluruhan** | **4.4 / 5.00** | **88%** |
 
 ---
 
-## **Rekapitulasi Nilai Akhir**
-
-| Komponen | Nilai Rata-rata |
-|---|---:|
-| UAS-1 — My Concept | 89.8 |
-| UAS-2 — My Opinions | 90.0 |
-| UAS-3 — My Innovations | 90.0 |
-| UAS-4 — My Knowledge | 90.0 |
-
-**Nilai Akhir (Rata-rata Keseluruhan):**  
-\[
-\frac{89.8 + 90.0 + 90.0 + 90.0}{4} = \mathbf{89.95}
-\]
-
----
-
-### **Kesimpulan Penilaian**
+## **Kesimpulan Penilaian**
 
 Berdasarkan hasil self-assessment, keempat webpage menunjukkan konsistensi narasi, kedalaman pemikiran, serta keterkaitan yang kuat antara konsep, opini, inovasi, dan fondasi pengetahuan. Mahasiswa mampu menampilkan pemahaman sistemik terhadap penerapan Artificial Intelligence dalam sistem informasi dengan fokus pada usability dan dampak sosial.
 
 Secara keseluruhan, karya ini berada pada kategori **sangat baik** dan merepresentasikan pemikiran reflektif seorang mahasiswa IT di era Artificial Intelligence.
+
+## **Peer-Assignment**   
+
+
+[*Peer Assignment Sheet*](https://docs.google.com/spreadsheets/d/1xMPUqNx-53f3BD9NCqL__C47tgR94EF4/edit?usp=sharing&ouid=107121008249744373583&rtpof=true&sd=true)
