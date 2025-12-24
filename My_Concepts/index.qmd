@@ -38,13 +38,13 @@ Sistem ini dirancang untuk membantu mahasiswa melakukan 3 hal inti:
 
 Walaupun target pengguna utamanya adalah mahasiswa, konsep ini tetap disebut **enterprise system** karena melibatkan struktur organisasi kampus dan peran-peran yang berbeda.
 
-**Primary user:**
+**Primary user:**  
 - Mahasiswa (terutama mahasiswa IT) yang punya beban akademik dinamis dan pengeluaran yang sering “bocor” tanpa sadar.
 
-**Secondary stakeholders (bukan fokus UI utama, tapi relevan untuk enterprise):**
-- Dosen / asisten (sebagai sumber data akademik di LMS/portal)
-- Admin akademik (pemilik sistem portal akademik)
-- Unit kemahasiswaan atau konseling (opsional, hanya bila mahasiswa memilih untuk berbagi ringkasan tertentu)
+**Secondary stakeholders (bukan fokus UI utama, tapi relevan untuk enterprise):**  
+- Dosen / asisten (sebagai sumber data akademik di LMS/portal)  
+- Admin akademik (pemilik sistem portal akademik)  
+- Unit kemahasiswaan atau konseling (opsional, hanya bila mahasiswa memilih untuk berbagi ringkasan tertentu)  
 
 Catatan penting: konsep ini tidak bertujuan menjadi “sistem pengawas”, melainkan sistem pendukung. **Mahasiswa tetap pemilik data pribadinya.**
 
@@ -54,13 +54,13 @@ Catatan penting: konsep ini tidak bertujuan menjadi “sistem pengawas”, melai
 
 Agar konsep ini tidak terlalu umum, aku membatasi masalah yang ingin diselesaikan menjadi kombinasi yang sering terjadi:
 
-### A) Akademik: overload itu sering tidak terlihat sampai terlambat
+A) Akademik: overload itu sering tidak terlihat sampai terlambat
 Mahasiswa biasanya sadar “minggu ini berat” ketika sudah mepet deadline.
 
-### B) Finansial: kebocoran pengeluaran itu kecil tapi konsisten
+B) Finansial: kebocoran pengeluaran itu kecil tapi konsisten
 Banyak pengeluaran kecil (makan, kopi, ojek, subscription) yang tidak terasa hari ini, tapi berdampak di akhir bulan.
 
-### C) Keduanya saling memperparah
+C) Keduanya saling memperparah
 Saat tugas menumpuk, pengeluaran cenderung naik (makan cepat, pesan antar, transport). Saat uang menipis, stres naik dan produktivitas turun. Siklus ini yang ingin “dipatahkan” dengan sistem yang terintegrasi.
 
 ---

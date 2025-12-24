@@ -322,11 +322,11 @@
   {
     "objectID": "My_Professional_Reviews/index.html",
     "href": "My_Professional_Reviews/index.html",
-    "title": "10  UAS-5 My Professional Reviews",
+    "title": "10  UAS-5 My Profesional Reviews",
     "section": "",
-    "text": "Soon",
+    "text": "Self-Assessment of UAS 1–4\nNama Mahasiswa:\nSatria Guna Darma | 18224011\nBentuk Penilaian:\nSelf-Assessment Terstruktur\nObjek Penilaian:\nUAS-1 (My Concept), UAS-2 (My Opinions), UAS-3 (My Innovations), UAS-4 (My Knowledge)",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Professional Reviews</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Profesional Reviews</span>"
     ]
   },
   {
@@ -924,7 +924,7 @@
     "href": "My_Concepts/index.html#pengguna-dan-lingkup-enterprise-who-is-it-for",
     "title": "6  UAS-1: My Concept",
     "section": "6.3 Pengguna dan “Lingkup Enterprise” (Who is it for)",
-    "text": "6.3 Pengguna dan “Lingkup Enterprise” (Who is it for)\nWalaupun target pengguna utamanya adalah mahasiswa, konsep ini tetap disebut enterprise system karena melibatkan struktur organisasi kampus dan peran-peran yang berbeda.\nPrimary user: - Mahasiswa (terutama mahasiswa IT) yang punya beban akademik dinamis dan pengeluaran yang sering “bocor” tanpa sadar.\nSecondary stakeholders (bukan fokus UI utama, tapi relevan untuk enterprise): - Dosen / asisten (sebagai sumber data akademik di LMS/portal) - Admin akademik (pemilik sistem portal akademik) - Unit kemahasiswaan atau konseling (opsional, hanya bila mahasiswa memilih untuk berbagi ringkasan tertentu)\nCatatan penting: konsep ini tidak bertujuan menjadi “sistem pengawas”, melainkan sistem pendukung. Mahasiswa tetap pemilik data pribadinya.",
+    "text": "6.3 Pengguna dan “Lingkup Enterprise” (Who is it for)\nWalaupun target pengguna utamanya adalah mahasiswa, konsep ini tetap disebut enterprise system karena melibatkan struktur organisasi kampus dan peran-peran yang berbeda.\nPrimary user:\n- Mahasiswa (terutama mahasiswa IT) yang punya beban akademik dinamis dan pengeluaran yang sering “bocor” tanpa sadar.\nSecondary stakeholders (bukan fokus UI utama, tapi relevan untuk enterprise):\n- Dosen / asisten (sebagai sumber data akademik di LMS/portal)\n- Admin akademik (pemilik sistem portal akademik)\n- Unit kemahasiswaan atau konseling (opsional, hanya bila mahasiswa memilih untuk berbagi ringkasan tertentu)\nCatatan penting: konsep ini tidak bertujuan menjadi “sistem pengawas”, melainkan sistem pendukung. Mahasiswa tetap pemilik data pribadinya.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1: My Concept</span>"
     ]
@@ -934,7 +934,7 @@
     "href": "My_Concepts/index.html#masalah-yang-disasar-problem-definition",
     "title": "6  UAS-1: My Concept",
     "section": "6.4 Masalah yang Disasar (Problem Definition)",
-    "text": "6.4 Masalah yang Disasar (Problem Definition)\nAgar konsep ini tidak terlalu umum, aku membatasi masalah yang ingin diselesaikan menjadi kombinasi yang sering terjadi:\n\n6.4.1 A) Akademik: overload itu sering tidak terlihat sampai terlambat\nMahasiswa biasanya sadar “minggu ini berat” ketika sudah mepet deadline.\n\n\n6.4.2 B) Finansial: kebocoran pengeluaran itu kecil tapi konsisten\nBanyak pengeluaran kecil (makan, kopi, ojek, subscription) yang tidak terasa hari ini, tapi berdampak di akhir bulan.\n\n\n6.4.3 C) Keduanya saling memperparah\nSaat tugas menumpuk, pengeluaran cenderung naik (makan cepat, pesan antar, transport). Saat uang menipis, stres naik dan produktivitas turun. Siklus ini yang ingin “dipatahkan” dengan sistem yang terintegrasi.",
+    "text": "6.4 Masalah yang Disasar (Problem Definition)\nAgar konsep ini tidak terlalu umum, aku membatasi masalah yang ingin diselesaikan menjadi kombinasi yang sering terjadi:\n\nAkademik: overload itu sering tidak terlihat sampai terlambat Mahasiswa biasanya sadar “minggu ini berat” ketika sudah mepet deadline.\nFinansial: kebocoran pengeluaran itu kecil tapi konsisten Banyak pengeluaran kecil (makan, kopi, ojek, subscription) yang tidak terasa hari ini, tapi berdampak di akhir bulan.\nKeduanya saling memperparah Saat tugas menumpuk, pengeluaran cenderung naik (makan cepat, pesan antar, transport). Saat uang menipis, stres naik dan produktivitas turun. Siklus ini yang ingin “dipatahkan” dengan sistem yang terintegrasi.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1: My Concept</span>"
     ]
@@ -1014,7 +1014,7 @@
     "href": "My_Opinions/index.html#ai-seharusnya-menjadi-decision-support-bukan-decision-maker",
     "title": "7  UAS-2: My Opinions",
     "section": "7.2 AI Seharusnya Menjadi Decision Support, Bukan Decision Maker",
-    "text": "7.2 AI Seharusnya Menjadi Decision Support, Bukan Decision Maker\nDalam sistem kampus, AI tidak seharusnya mengambil alih keputusan mahasiswa. Keputusan akademik dan finansial selalu memiliki aspek manusia: kondisi mental, preferensi pribadi, dan situasi yang tidak selalu bisa dimodelkan secara sempurna.\nMenurutku, peran AI yang ideal adalah: - membantu meringkas situasi kompleks, - menunjukkan opsi yang masuk akal, - dan menjelaskan konsekuensi dari tiap opsi.\nKeputusan akhir tetap berada di tangan pengguna. Dengan begitu, sistem tidak menghilangkan agency mahasiswa, justru memperkuatnya.",
+    "text": "7.2 AI Seharusnya Menjadi Decision Support, Bukan Decision Maker\nDalam sistem kampus, AI tidak seharusnya mengambil alih keputusan mahasiswa. Keputusan akademik dan finansial selalu memiliki aspek manusia: kondisi mental, preferensi pribadi, dan situasi yang tidak selalu bisa dimodelkan secara sempurna.\nMenurutku, peran AI yang ideal adalah:\n- membantu meringkas situasi kompleks,\n- menunjukkan opsi yang masuk akal,\n- menjelaskan konsekuensi dari tiap opsi.\nKeputusan akhir tetap berada di tangan pengguna. Dengan begitu, sistem tidak menghilangkan agency mahasiswa, justru memperkuatnya.",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-2: My Opinions</span>"
     ]
@@ -1034,7 +1034,7 @@
     "href": "My_Opinions/index.html#usability-adalah-syarat-mutlak-bukan-bonus",
     "title": "7  UAS-2: My Opinions",
     "section": "7.4 Usability Adalah Syarat Mutlak, Bukan Bonus",
-    "text": "7.4 Usability Adalah Syarat Mutlak, Bukan Bonus\nSebagai mahasiswa IT, aku sering melihat sistem kampus yang “lengkap fiturnya” tetapi jarang dipakai. Menurutku, ini bukan masalah teknologi, melainkan masalah desain.\nBeberapa prinsip yang menurutku krusial: - Sistem harus membantu pengguna lebih cepat mengambil keputusan, bukan menambah beban kognitif. - Tampilan ringkas lebih bernilai daripada laporan panjang. - Rekomendasi yang sedikit tapi relevan lebih berguna daripada banyak tapi membingungkan.\nJika sebuah sistem berbasis AI tidak membuat hidup pengguna lebih sederhana, maka sistem tersebut gagal, meskipun secara teknis sangat canggih.",
+    "text": "7.4 Usability Adalah Syarat Mutlak, Bukan Bonus\nSebagai mahasiswa IT, aku sering melihat sistem kampus yang “lengkap fiturnya” tetapi jarang dipakai. Menurutku, ini bukan masalah teknologi, melainkan masalah desain.\nBeberapa prinsip yang menurutku krusial:\n- Sistem harus membantu pengguna lebih cepat mengambil keputusan, bukan menambah beban kognitif.\n- Tampilan ringkas lebih bernilai daripada laporan panjang.\n- Rekomendasi yang sedikit tapi relevan lebih berguna daripada banyak tapi membingungkan.\nJika sebuah sistem berbasis AI tidak membuat hidup pengguna lebih sederhana, maka sistem tersebut gagal, meskipun secara teknis sangat canggih.",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-2: My Opinions</span>"
     ]
@@ -1044,7 +1044,7 @@
     "href": "My_Opinions/index.html#personalisasi-boleh-tapi-privasi-tidak-boleh-dikorbankan",
     "title": "7  UAS-2: My Opinions",
     "section": "7.5 Personalisasi Boleh, Tapi Privasi Tidak Boleh Dikorbankan",
-    "text": "7.5 Personalisasi Boleh, Tapi Privasi Tidak Boleh Dikorbankan\nAI sering dikaitkan dengan personalisasi. Aku setuju bahwa personalisasi penting, tetapi dalam sistem yang menyentuh data akademik dan finansial, privasi harus menjadi desain awal, bukan pemikiran belakangan.\nPendapatku: - Data sensitif seharusnya bersifat opt-in, bukan default on. - Pengguna perlu tahu kenapa sistem memberi rekomendasi tertentu, bukan hanya menerima hasilnya. - Transparansi sederhana lebih penting daripada algoritma yang sepenuhnya “black box”.\nDengan pendekatan ini, kepercayaan pengguna bisa dibangun tanpa mengorbankan manfaat AI.",
+    "text": "7.5 Personalisasi Boleh, Tapi Privasi Tidak Boleh Dikorbankan\nAI sering dikaitkan dengan personalisasi. Aku setuju bahwa personalisasi penting, tetapi dalam sistem yang menyentuh data akademik dan finansial, privasi harus menjadi desain awal, bukan pemikiran belakangan.\nPendapatku:\n- Data sensitif seharusnya bersifat opt-in, bukan default on.\n- Pengguna perlu tahu kenapa sistem memberi rekomendasi tertentu, bukan hanya menerima hasilnya.\n- Transparansi sederhana lebih penting daripada algoritma yang sepenuhnya “black box”.\nDengan pendekatan ini, kepercayaan pengguna bisa dibangun tanpa mengorbankan manfaat AI.",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-2: My Opinions</span>"
     ]
@@ -1054,7 +1054,7 @@
     "href": "My_Opinions/index.html#dampak-sosial-lebih-penting-daripada-sekadar-efisiensi",
     "title": "7  UAS-2: My Opinions",
     "section": "7.6 Dampak Sosial Lebih Penting daripada Sekadar Efisiensi",
-    "text": "7.6 Dampak Sosial Lebih Penting daripada Sekadar Efisiensi\nBanyak sistem dinilai sukses karena meningkatkan efisiensi. Namun, dalam konteks mahasiswa, aku melihat indikator sukses yang lebih luas.\nSistem yang baik menurutku adalah sistem yang: - membantu mahasiswa mengurangi stres akibat ketidakpastian, - mencegah masalah finansial kecil berkembang menjadi masalah besar, - dan memberi rasa kontrol terhadap hidup akademik mereka sendiri.\nJika sebuah sistem AI hanya membuat proses lebih cepat tetapi membuat pengguna merasa tertekan atau diawasi, maka dampak sosialnya patut dipertanyakan.",
+    "text": "7.6 Dampak Sosial Lebih Penting daripada Sekadar Efisiensi\nBanyak sistem dinilai sukses karena meningkatkan efisiensi. Namun, dalam konteks mahasiswa, aku melihat indikator sukses yang lebih luas.\nSistem yang baik menurutku adalah sistem yang:\n- membantu mahasiswa mengurangi stres akibat ketidakpastian,\n- mencegah masalah finansial kecil berkembang menjadi masalah besar,\n- memberi rasa kontrol terhadap hidup akademik mereka sendiri.\nJika sebuah sistem AI hanya membuat proses lebih cepat tetapi membuat pengguna merasa tertekan atau diawasi, maka dampak sosialnya patut dipertanyakan.",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-2: My Opinions</span>"
     ]
@@ -1104,7 +1104,7 @@
     "href": "My_Innovations/index.html#gambaran-umum-inovasi",
     "title": "8  UAS-3: My Innovations",
     "section": "8.2 Gambaran Umum Inovasi",
-    "text": "8.2 Gambaran Umum Inovasi\nSistem ini dirancang sebagai decision-support system, bukan sistem yang mengatur atau memaksa. Tujuannya adalah membantu mahasiswa menjawab pertanyaan sederhana namun krusial, seperti: - Minggu ini aku harus fokus ke apa? - Apakah kondisi pengeluaranku masih aman jika beban tugas meningkat? - Keputusan apa yang paling masuk akal dengan kondisi yang ada sekarang?\nInovasi ini memanfaatkan AI bukan untuk “menjadi pintar”, tetapi untuk menghubungkan konteks akademik dan finansial agar mahasiswa bisa mengambil keputusan dengan lebih sadar.",
+    "text": "8.2 Gambaran Umum Inovasi\nSistem ini dirancang sebagai decision-support system, bukan sistem yang mengatur atau memaksa. Tujuannya adalah membantu mahasiswa menjawab pertanyaan sederhana namun krusial, seperti:\n- Minggu ini aku harus fokus ke apa?\n- Apakah kondisi pengeluaranku masih aman jika beban tugas meningkat?\n- Keputusan apa yang paling masuk akal dengan kondisi yang ada sekarang?\nInovasi ini memanfaatkan AI bukan untuk “menjadi pintar”, tetapi untuk menghubungkan konteks akademik dan finansial agar mahasiswa bisa mengambil keputusan dengan lebih sadar.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>UAS-3: My Innovations</span>"
     ]
@@ -1114,7 +1114,7 @@
     "href": "My_Innovations/index.html#masalah-spesifik-yang-diselesaikan",
     "title": "8  UAS-3: My Innovations",
     "section": "8.3 Masalah Spesifik yang Diselesaikan",
-    "text": "8.3 Masalah Spesifik yang Diselesaikan\nAgar inovasi ini tidak terlalu umum, aku membatasi masalah yang ingin disasar menjadi satu kombinasi inti:\n\nMahasiswa kesulitan mengambil keputusan harian karena beban akademik dan kondisi finansial dianalisis secara terpisah.\n\nAkibatnya: - prioritas tugas sering tidak realistis, - pengeluaran meningkat saat beban akademik tinggi, - stres meningkat karena tidak ada gambaran kondisi yang utuh.\nInovasi ini berusaha menyelesaikan masalah tersebut dengan menghadirkan satu titik pengambilan keputusan yang mempertimbangkan kedua aspek sekaligus.",
+    "text": "8.3 Masalah Spesifik yang Diselesaikan\nAgar inovasi ini tidak terlalu umum, aku membatasi masalah yang ingin disasar menjadi satu kombinasi inti:\n\nMahasiswa kesulitan mengambil keputusan harian karena beban akademik dan kondisi finansial dianalisis secara terpisah.\n\nAkibatnya:\n- prioritas tugas sering tidak realistis,\n- pengeluaran meningkat saat beban akademik tinggi,\n- stres meningkat karena tidak ada gambaran kondisi yang utuh.\nInovasi ini berusaha menyelesaikan masalah tersebut dengan menghadirkan satu titik pengambilan keputusan yang mempertimbangkan kedua aspek sekaligus.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>UAS-3: My Innovations</span>"
     ]
@@ -1134,7 +1134,7 @@
     "href": "My_Innovations/index.html#bentuk-rekomendasi-yang-diberikan",
     "title": "8  UAS-3: My Innovations",
     "section": "8.5 Bentuk Rekomendasi yang Diberikan",
-    "text": "8.5 Bentuk Rekomendasi yang Diberikan\nSalah satu aspek inovatif dari sistem ini adalah bentuk rekomendasinya, yang dibuat agar: - tidak terlalu panjang, - tidak menggurui, - dan mudah dieksekusi.\nContoh bentuk rekomendasi: - prioritas tugas mingguan yang disesuaikan dengan waktu dan energi, - peringatan pengeluaran dengan alternatif yang lebih aman, - saran penyesuaian rencana jika beban meningkat tiba-tiba.\nRekomendasi selalu bersifat opsional dan transparan, sehingga pengguna tetap memegang kendali penuh.",
+    "text": "8.5 Bentuk Rekomendasi yang Diberikan\nSalah satu aspek inovatif dari sistem ini adalah bentuk rekomendasinya, yang dibuat agar:\n- tidak terlalu panjang,\n- tidak menggurui,\n- mudah dieksekusi.\nContoh bentuk rekomendasi:\n- prioritas tugas mingguan yang disesuaikan dengan waktu dan energi,\n- peringatan pengeluaran dengan alternatif yang lebih aman,\n- saran penyesuaian rencana jika beban meningkat tiba-tiba.\nRekomendasi selalu bersifat opsional dan transparan, sehingga pengguna tetap memegang kendali penuh.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>UAS-3: My Innovations</span>"
     ]
@@ -1144,7 +1144,7 @@
     "href": "My_Innovations/index.html#keunikan-inovasi-dibanding-sistem-serupa",
     "title": "8  UAS-3: My Innovations",
     "section": "8.6 Keunikan Inovasi Dibanding Sistem Serupa",
-    "text": "8.6 Keunikan Inovasi Dibanding Sistem Serupa\nInovasi ini berbeda dari: - aplikasi to-do list biasa, - aplikasi pencatat keuangan, - atau chatbot AI generik.\nKeunikannya terletak pada: 1. Integrasi konteks akademik dan finansial dalam satu sistem. 2. Fokus pada decision support, bukan otomatisasi penuh. 3. Usability sebagai prioritas utama, bukan kelengkapan fitur. 4. Pendekatan enterprise, sehingga sistem bisa diintegrasikan dengan infrastruktur kampus.",
+    "text": "8.6 Keunikan Inovasi Dibanding Sistem Serupa\nInovasi ini berbeda dari:\n- aplikasi to-do list biasa,\n- aplikasi pencatat keuangan,\n- atau chatbot AI generik.\nKeunikannya terletak pada: 1. Integrasi konteks akademik dan finansial dalam satu sistem.\n2. Fokus pada decision support, bukan otomatisasi penuh.\n3. Usability sebagai prioritas utama, bukan kelengkapan fitur.\n4. Pendekatan enterprise, sehingga sistem bisa diintegrasikan dengan infrastruktur kampus.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>UAS-3: My Innovations</span>"
     ]
@@ -1214,7 +1214,7 @@
     "href": "My_Knowledge/index.html#system-enterprise-foundation",
     "title": "9  UAS 4: My Knowledge",
     "section": "9.3 System & Enterprise Foundation",
-    "text": "9.3 System & Enterprise Foundation\nLapisan pertama adalah pemahaman tentang sistem dan enterprise architecture, karena inovasi yang aku rancang tidak berdiri sebagai aplikasi kecil, tetapi sebagai bagian dari sistem kampus.\nPengetahuan yang relevan: - Konsep sistem informasi dan alur bisnis (workflow). - Pemahaman tentang enterprise system: peran, hak akses, dan integrasi antar sistem. - Requirement analysis dan pemodelan sistem. - Pemisahan antara frontend, backend, dan data layer.\nPengetahuan ini memastikan bahwa sistem yang dirancang: - tidak bertabrakan dengan sistem kampus yang sudah ada, - dapat dikembangkan secara bertahap, - dan tetap maintainable dalam jangka panjang.",
+    "text": "9.3 System & Enterprise Foundation\nLapisan pertama adalah pemahaman tentang sistem dan enterprise architecture, karena inovasi yang aku rancang tidak berdiri sebagai aplikasi kecil, tetapi sebagai bagian dari sistem kampus.\nPengetahuan yang relevan:\n- Konsep sistem informasi dan alur bisnis (workflow).\n- Pemahaman tentang enterprise system: peran, hak akses, dan integrasi antar sistem.\n- Requirement analysis dan pemodelan sistem.\n- Pemisahan antara frontend, backend, dan data layer.\nPengetahuan ini memastikan bahwa sistem yang dirancang:\n- tidak bertabrakan dengan sistem kampus yang sudah ada,\n- dapat dikembangkan secara bertahap,\n- dan tetap maintainable dalam jangka panjang.",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS 4: My Knowledge</span>"
     ]
@@ -1224,7 +1224,7 @@
     "href": "My_Knowledge/index.html#data-management-information-flow",
     "title": "9  UAS 4: My Knowledge",
     "section": "9.4 Data Management & Information Flow",
-    "text": "9.4 Data Management & Information Flow\nLapisan kedua berfokus pada data sebagai fondasi keputusan. Tanpa pengelolaan data yang baik, AI tidak akan menghasilkan rekomendasi yang bermakna.\nPengetahuan inti di lapisan ini meliputi: - Dasar basis data dan pemodelan data. - Alur data dari input hingga visualisasi (ETL sederhana). - Validasi dan konsistensi data. - Perancangan data yang mendukung ringkasan, bukan sekadar penyimpanan.\nDalam sistem yang aku rancang, data bukan untuk dianalisis secara akademik semata, tetapi untuk mendukung keputusan cepat dan kontekstual.",
+    "text": "9.4 Data Management & Information Flow\nLapisan kedua berfokus pada data sebagai fondasi keputusan. Tanpa pengelolaan data yang baik, AI tidak akan menghasilkan rekomendasi yang bermakna.\nPengetahuan inti di lapisan ini meliputi:\n- Dasar basis data dan pemodelan data.\n- Alur data dari input hingga visualisasi (ETL sederhana).\n- Validasi dan konsistensi data.\n- Perancangan data yang mendukung ringkasan, bukan sekadar penyimpanan.\nDalam sistem yang aku rancang, data bukan untuk dianalisis secara akademik semata, tetapi untuk mendukung keputusan cepat dan kontekstual.",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS 4: My Knowledge</span>"
     ]
@@ -1234,7 +1234,7 @@
     "href": "My_Knowledge/index.html#artificial-intelligence-as-a-supporting-layer",
     "title": "9  UAS 4: My Knowledge",
     "section": "9.5 Artificial Intelligence as a Supporting Layer",
-    "text": "9.5 Artificial Intelligence as a Supporting Layer\nLapisan berikutnya adalah AI, yang aku posisikan sebagai pendukung sistem, bukan pusat dari keseluruhan desain.\nPengetahuan AI yang relevan dengan inovasi ini: - Konsep dasar machine learning dan rule-based systems. - Pemahaman bahwa tidak semua masalah perlu model kompleks. - Evaluasi hasil rekomendasi, bukan hanya akurasi model. - Explainability: kemampuan menjelaskan mengapa sistem memberi saran tertentu.\nDengan pemahaman ini, AI digunakan untuk: - mengenali pola beban akademik, - mendeteksi kecenderungan pengeluaran, - dan menghubungkan keduanya menjadi rekomendasi yang masuk akal.",
+    "text": "9.5 Artificial Intelligence as a Supporting Layer\nLapisan berikutnya adalah AI, yang aku posisikan sebagai pendukung sistem, bukan pusat dari keseluruhan desain.\nPengetahuan AI yang relevan dengan inovasi ini:\n- Konsep dasar machine learning dan rule-based systems.\n- Pemahaman bahwa tidak semua masalah perlu model kompleks.\n- Evaluasi hasil rekomendasi, bukan hanya akurasi model.\n- Explainability: kemampuan menjelaskan mengapa sistem memberi saran tertentu.\nDengan pemahaman ini, AI digunakan untuk: - mengenali pola beban akademik, - mendeteksi kecenderungan pengeluaran, - dan menghubungkan keduanya menjadi rekomendasi yang masuk akal.",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS 4: My Knowledge</span>"
     ]
@@ -1244,7 +1244,7 @@
     "href": "My_Knowledge/index.html#human-centered-design-usability",
     "title": "9  UAS 4: My Knowledge",
     "section": "9.6 Human-Centered Design & Usability",
-    "text": "9.6 Human-Centered Design & Usability\nSistem yang baik secara teknis bisa gagal jika tidak dipahami penggunanya. Karena itu, lapisan knowledge berikutnya adalah human-centered design.\nPengetahuan yang relevan: - Prinsip dasar UI/UX untuk sistem informasi. - Reduksi beban kognitif pengguna. - Penyajian informasi secara ringkas dan visual. - Mendesain sistem agar pengguna tetap merasa memegang kendali.\nLapisan ini memastikan bahwa sistem: - tidak terasa mengintimidasi, - tidak terasa seperti alat pengawasan, - dan benar-benar membantu pengguna dalam kehidupan sehari-hari.",
+    "text": "9.6 Human-Centered Design & Usability\nSistem yang baik secara teknis bisa gagal jika tidak dipahami penggunanya. Karena itu, lapisan knowledge berikutnya adalah human-centered design.\nPengetahuan yang relevan:\n- Prinsip dasar UI/UX untuk sistem informasi.\n- Reduksi beban kognitif pengguna.\n- Penyajian informasi secara ringkas dan visual.\n- Mendesain sistem agar pengguna tetap merasa memegang kendali.\nLapisan ini memastikan bahwa sistem:\n- tidak terasa mengintimidasi,\n- tidak terasa seperti alat pengawasan,\n- dan benar-benar membantu pengguna dalam kehidupan sehari-hari.",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS 4: My Knowledge</span>"
     ]
@@ -1254,7 +1254,7 @@
     "href": "My_Knowledge/index.html#ethics-privacy-and-responsibility",
     "title": "9  UAS 4: My Knowledge",
     "section": "9.7 Ethics, Privacy, and Responsibility",
-    "text": "9.7 Ethics, Privacy, and Responsibility\nLapisan terakhir adalah etika dan tanggung jawab, terutama karena sistem ini menyentuh data akademik dan finansial.\nPengetahuan yang menurutku krusial: - Prinsip privacy-by-design. - Opt-in dan kontrol data oleh pengguna. - Transparansi rekomendasi sistem. - Kesadaran akan bias dan keterbatasan sistem otomatis.\nLapisan ini bukan tambahan, tetapi fondasi kepercayaan yang membuat sistem layak digunakan dalam lingkungan kampus.",
+    "text": "9.7 Ethics, Privacy, and Responsibility\nLapisan terakhir adalah etika dan tanggung jawab, terutama karena sistem ini menyentuh data akademik dan finansial.\nPengetahuan yang menurutku krusial:\n- Prinsip privacy-by-design.\n- Opt-in dan kontrol data oleh pengguna.\n- Transparansi rekomendasi sistem.\n- Kesadaran akan bias dan keterbatasan sistem otomatis.\nLapisan ini bukan tambahan, tetapi fondasi kepercayaan yang membuat sistem layak digunakan dalam lingkungan kampus.",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS 4: My Knowledge</span>"
     ]
@@ -1274,9 +1274,49 @@
     "href": "My_Knowledge/index.html#penutup",
     "title": "9  UAS 4: My Knowledge",
     "section": "9.9 Penutup",
-    "text": "9.9 Penutup\nMelalui My Knowledge, aku ingin menunjukkan bahwa masterpiece yang aku rancang tidak muncul secara tiba-tiba. Ia dibangun di atas fondasi pengetahuan yang terstruktur, relevan, dan terus berkembang.\nDengan menggabungkan sistem, data, AI, dan pendekatan manusiawi, aku percaya bahwa teknologi informasi di era Artificial Intelligence dapat memberikan dampak nyata—terutama bagi mahasiswa seperti diriku sendiri.",
+    "text": "9.9 Penutup\nMelalui My Knowledge, aku ingin menunjukkan bahwa masterpiece yang aku rancang tidak muncul secara tiba-tiba. Ia dibangun di atas fondasi pengetahuan yang terstruktur, relevan, dan terus berkembang.\nDengan menggabungkan sistem, data, AI, dan pendekatan manusiawi, aku percaya bahwa teknologi informasi di era Artificial Intelligence dapat memberikan dampak nyata, terutama bagi mahasiswa seperti diriku sendiri.",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS 4: My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Professional_Reviews/index.html#self-assessment-uas-1-s.d.-4",
+    "href": "My_Professional_Reviews/index.html#self-assessment-uas-1-s.d.-4",
+    "title": "10  UAS-5 My Personal Reviews",
+    "section": "",
+    "text": "Rangkaian halaman UAS-1 hingga UAS-4 dirancang sebagai satu kesatuan narasi konseptual mengenai My Masterpiece: Penerapan Sistem dan Teknologi Informasi di Era Artificial Intelligence.\nKeempat halaman ini tidak berdiri sendiri, melainkan saling terhubung untuk menunjukkan cara berpikir sistemik, posisi personal terhadap teknologi, gagasan inovatif yang realistis, serta fondasi pengetahuan yang menopang keseluruhan ide.\nFokus utama yang diangkat adalah penerapan AI dalam konteks enterprise system kampus dengan penekanan pada usability dan dampak sosial, khususnya bagi mahasiswa.\n\n\n\n10.0.1 UAS-1 (My Concept)\nMy Masterpiece: AI-Enhanced Student Success System\nPada bagian My Concept, aku berhasil merumuskan sebuah konsep sistem yang jelas, terarah, dan memiliki batasan yang tegas. Konsep tidak hanya menjelaskan apa yang ingin dibangun, tetapi juga mengapa sistem tersebut relevan di era AI.\nKekuatan utama pada bagian ini terletak pada: - pendefinisian masalah yang spesifik (akademik dan finansial mahasiswa), - pemilihan pendekatan enterprise system yang realistis, - serta pemisahan peran antara sistem informasi dan AI sebagai decision-support.\nBagian ini menunjukkan kemampuan berpikir konseptual dan sistemik, tanpa terjebak pada jargon teknis atau generalisasi berlebihan.\n\n\n\n10.0.2 UAS-2 (My Opinions)\nMy Perspective on AI-Driven Enterprise Systems\nPada halaman My Opinions, aku menampilkan sikap dan sudut pandang pribadi terhadap penerapan AI, khususnya dalam lingkungan kampus. Pendapat yang disampaikan tidak bersifat normatif atau mengikuti tren, tetapi berangkat dari pengalaman dan observasi sebagai mahasiswa IT.\nNilai utama dari bagian ini adalah: - kejelasan posisi bahwa AI seharusnya menjadi decision support, bukan decision maker, - penekanan pada pentingnya integrasi sistem dibandingkan sekadar kecanggihan AI, - serta kesadaran terhadap isu usability, privasi, dan dampak sosial.\nBagian ini memperlihatkan kemampuan refleksi kritis dan konsistensi antara konsep, nilai, dan tujuan sistem yang ingin dibangun.\n\n\n\n10.0.3 UAS-3 (My Innovations)\nFrom Concept to a Concrete System Idea\nBagian My Innovations menjadi jembatan antara ide dan implementasi. Di sini, aku berhasil menerjemahkan konsep abstrak menjadi satu inovasi sistem yang konkret, terfokus, dan dapat dibayangkan penerapannya.\nInovasi yang diajukan: - memiliki masalah inti yang jelas, - menawarkan solusi berbasis sistem, bukan fitur terpisah, - dan tetap menjaga peran pengguna sebagai pengambil keputusan utama.\nKekuatan bagian ini terletak pada pendekatan realistis—tidak menjanjikan solusi instan, tetapi menunjukkan bagaimana sistem dapat membantu pengguna secara bertahap dan kontekstual.\n\n\n\n10.0.4 UAS-4 (My Knowledge)\nKnowledge Foundation Behind the System\nPada halaman My Knowledge, aku memetakan pengetahuan yang relevan secara langsung dengan inovasi yang diajukan. Alih-alih membuat daftar skill atau teknologi secara umum, aku menyusunnya sebagai lapisan knowledge yang saling mendukung.\nBagian ini menunjukkan: - pemahaman tentang fondasi sistem dan enterprise architecture, - peran data dan AI sebagai pendukung keputusan, - serta pentingnya desain berpusat pada manusia dan etika.\nPendekatan ini menegaskan bahwa inovasi tidak berdiri sendiri, melainkan dibangun di atas pengetahuan yang terstruktur dan terus berkembang.\n\n\n\n10.0.5 Refleksi Akhir\nSecara keseluruhan, keempat halaman ini berhasil membentuk satu narasi yang koheren:\ndari konsep → opini → inovasi → fondasi pengetahuan.\nMelalui tugas ini, aku tidak hanya menampilkan pemahaman teknis, tetapi juga: - cara berpikir sistemik, - kesadaran akan dampak sosial teknologi, - dan kemampuan merefleksikan posisi diri sebagai mahasiswa IT di era Artificial Intelligence.\nWebsite ini menjadi representasi bagaimana aku melihat teknologi:\nbukan sekadar alat yang canggih, tetapi sistem yang seharusnya membantu manusia mengambil keputusan yang lebih baik.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Professional_Reviews/index.html#peer-assignment",
+    "href": "My_Professional_Reviews/index.html#peer-assignment",
+    "title": "10  UAS-5 My Personal Reviews",
+    "section": "10.1 Peer-Assignment",
+    "text": "10.1 Peer-Assignment\nPeer Assignment Sheet",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Professional_Reviews/index.html#self-assessment-of-uas-14",
+    "href": "My_Professional_Reviews/index.html#self-assessment-of-uas-14",
+    "title": "10  UAS-5 My Profesional Reviews",
+    "section": "",
+    "text": "10.0.1 UAS-1 — My Concept\n\n\n\n\n\n\n\n\nKriteria Penilaian\nNilai\nCatatan Penilai\n\n\n\n\nKejelasan konsep utama\n4\nKonsep sistem didefinisikan dengan jelas dan memiliki fokus yang konsisten.\n\n\nRelevansi dengan tema AI & Sistem Informasi\n5\nTema AI ditempatkan secara tepat sebagai pendukung sistem, bukan pusat narasi.\n\n\nSpesifikasi masalah\n4\nMasalah akademik dan finansial mahasiswa dirumuskan secara spesifik dan kontekstual.\n\n\nBatasan dan ruang lingkup\n5\nScope dan non-scope dijelaskan dengan tegas sehingga konsep tidak melebar.\n\n\nKoherensi antar bagian\n4\nAlur penjelasan runtut dan mudah diikuti.\n\n\n\nRata-rata UAS-1:\n[ = ]\n\n\n\n10.0.2 UAS-2 — My Opinions\n\n\n\n\n\n\n\n\nKriteria Penilaian\nNilai\nCatatan Penilai\n\n\n\n\nKejelasan posisi dan sudut pandang\n4\nPandangan terhadap AI disampaikan secara konsisten dan tegas.\n\n\nArgumentasi dan refleksi kritis\n4\nOpini tidak normatif, didukung oleh penalaran yang matang.\n\n\nKonsistensi dengan UAS-1\n5\nOpini selaras dengan konsep sistem yang telah dirumuskan sebelumnya.\n\n\nRelevansi dengan konteks mahasiswa\n5\nIsu yang diangkat dekat dengan realitas mahasiswa IT.\n\n\nKedalaman analisis\n5\nAnalisis cukup dalam tanpa menjadi terlalu teknis.\n\n\n\nRata-rata UAS-2:\n[ = ]\n\n\n\n10.0.3 UAS-3 — My Innovations\n\n\n\n\n\n\n\n\nKriteria Penilaian\nNilai\nCatatan Penilai\n\n\n\n\nKejelasan ide inovasi\n4\nInovasi dirumuskan sebagai satu sistem utama yang terfokus.\n\n\nKeterkaitan dengan konsep & opini\n5\nInovasi merupakan kelanjutan logis dari UAS-1 dan UAS-2.\n\n\nRealisme implementasi\n4\nIde realistis sebagai sistem pendukung, tidak berlebihan secara teknis.\n\n\nNilai tambah (impact & usability)\n4\nDampak sosial dan kemudahan penggunaan menjadi kekuatan utama.\n\n\nStruktur dan alur penjelasan\n5\nPenjelasan sistematis dan mudah divisualisasikan.\n\n\n\nRata-rata UAS-3:\n[ = ]\n\n\n\n10.0.4 UAS-4 — My Knowledge\n\n\n\n\n\n\n\n\nKriteria Penilaian\nNilai\nCatatan Penilai\n\n\n\n\nRelevansi knowledge dengan inovasi\n4\nPengetahuan dipilih secara langsung mendukung sistem yang diusulkan.\n\n\nStruktur dan pemetaan knowledge\n5\nKnowledge disusun berlapis dan tidak berupa daftar acak.\n\n\nPemahaman sistem & enterprise\n4\nMenunjukkan pemahaman konseptual yang baik tentang sistem informasi.\n\n\nKesadaran aspek human & ethics\n4\nAspek etika dan human-centered design diperhatikan secara eksplisit.\n\n\nRefleksi terhadap pembelajaran\n4\nMenunjukkan kesadaran akan keterbatasan dan proses belajar berkelanjutan.\n\n\n\nRata-rata UAS-4:\n[ = ]",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Profesional Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Professional_Reviews/index.html#rekapitulasi-nilai-akhir",
+    "href": "My_Professional_Reviews/index.html#rekapitulasi-nilai-akhir",
+    "title": "10  UAS-5 My Profesional Reviews",
+    "section": "10.1 Rekapitulasi Nilai Akhir",
+    "text": "10.1 Rekapitulasi Nilai Akhir\n\n\n\nKomponen\nNilai Rata-rata\n\n\n\n\nUAS-1 — My Concept\n89.8\n\n\nUAS-2 — My Opinions\n90.0\n\n\nUAS-3 — My Innovations\n90.0\n\n\nUAS-4 — My Knowledge\n90.0\n\n\n\nNilai Akhir (Rata-rata Keseluruhan):\n[ = ]\n\n\n10.1.1 Kesimpulan Penilaian\nBerdasarkan hasil self-assessment, keempat webpage menunjukkan konsistensi narasi, kedalaman pemikiran, serta keterkaitan yang kuat antara konsep, opini, inovasi, dan fondasi pengetahuan. Mahasiswa mampu menampilkan pemahaman sistemik terhadap penerapan Artificial Intelligence dalam sistem informasi dengan fokus pada usability dan dampak sosial.\nSecara keseluruhan, karya ini berada pada kategori sangat baik dan merepresentasikan pemikiran reflektif seorang mahasiswa IT di era Artificial Intelligence.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Profesional Reviews</span>"
     ]
   }
 ]

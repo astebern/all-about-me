@@ -19,10 +19,10 @@ Inovasi yang aku ajukan adalah sebuah **AI-Enhanced Student Success System**, ya
 
 ## Gambaran Umum Inovasi
 
-Sistem ini dirancang sebagai **decision-support system**, bukan sistem yang mengatur atau memaksa. Tujuannya adalah membantu mahasiswa menjawab pertanyaan sederhana namun krusial, seperti:
-- *Minggu ini aku harus fokus ke apa?*
-- *Apakah kondisi pengeluaranku masih aman jika beban tugas meningkat?*
-- *Keputusan apa yang paling masuk akal dengan kondisi yang ada sekarang?*
+Sistem ini dirancang sebagai **decision-support system**, bukan sistem yang mengatur atau memaksa. Tujuannya adalah membantu mahasiswa menjawab pertanyaan sederhana namun krusial, seperti:  
+- *Minggu ini aku harus fokus ke apa?*  
+- *Apakah kondisi pengeluaranku masih aman jika beban tugas meningkat?*  
+- *Keputusan apa yang paling masuk akal dengan kondisi yang ada sekarang?*  
 
 Inovasi ini memanfaatkan AI bukan untuk “menjadi pintar”, tetapi untuk **menghubungkan konteks akademik dan finansial** agar mahasiswa bisa mengambil keputusan dengan lebih sadar.
 
@@ -36,10 +36,10 @@ Agar inovasi ini tidak terlalu umum, aku membatasi masalah yang ingin disasar me
 
 > **Mahasiswa kesulitan mengambil keputusan harian karena beban akademik dan kondisi finansial dianalisis secara terpisah.**
 
-Akibatnya:
-- prioritas tugas sering tidak realistis,
-- pengeluaran meningkat saat beban akademik tinggi,
-- stres meningkat karena tidak ada gambaran kondisi yang utuh.
+Akibatnya:  
+- prioritas tugas sering tidak realistis,  
+- pengeluaran meningkat saat beban akademik tinggi,  
+- stres meningkat karena tidak ada gambaran kondisi yang utuh.  
 
 Inovasi ini berusaha menyelesaikan masalah tersebut dengan **menghadirkan satu titik pengambilan keputusan** yang mempertimbangkan kedua aspek sekaligus.
 
@@ -75,15 +75,15 @@ Contoh pemakaian:
 
 ## Bentuk Rekomendasi yang Diberikan
 
-Salah satu aspek inovatif dari sistem ini adalah **bentuk rekomendasinya**, yang dibuat agar:
-- tidak terlalu panjang,
-- tidak menggurui,
-- dan mudah dieksekusi.
+Salah satu aspek inovatif dari sistem ini adalah **bentuk rekomendasinya**, yang dibuat agar:   
+- tidak terlalu panjang,  
+- tidak menggurui,  
+- mudah dieksekusi.
 
-Contoh bentuk rekomendasi:
-- prioritas tugas mingguan yang disesuaikan dengan waktu dan energi,
-- peringatan pengeluaran dengan alternatif yang lebih aman,
-- saran penyesuaian rencana jika beban meningkat tiba-tiba.
+Contoh bentuk rekomendasi:  
+- prioritas tugas mingguan yang disesuaikan dengan waktu dan energi,  
+- peringatan pengeluaran dengan alternatif yang lebih aman,  
+- saran penyesuaian rencana jika beban meningkat tiba-tiba.  
 
 Rekomendasi selalu bersifat **opsional dan transparan**, sehingga pengguna tetap memegang kendali penuh.
 
@@ -91,25 +91,17 @@ Rekomendasi selalu bersifat **opsional dan transparan**, sehingga pengguna tetap
 
 ## Keunikan Inovasi Dibanding Sistem Serupa
 
-Inovasi ini berbeda dari:
-- aplikasi to-do list biasa,
-- aplikasi pencatat keuangan,
-- atau chatbot AI generik.
+Inovasi ini berbeda dari:  
+- aplikasi to-do list biasa,  
+- aplikasi pencatat keuangan,  
+- atau chatbot AI generik.  
 
 Keunikannya terletak pada:
-1. **Integrasi konteks akademik dan finansial** dalam satu sistem.
-2. **Fokus pada decision support**, bukan otomatisasi penuh.
-3. **Usability sebagai prioritas utama**, bukan kelengkapan fitur.
-4. **Pendekatan enterprise**, sehingga sistem bisa diintegrasikan dengan infrastruktur kampus.
+1. **Integrasi konteks akademik dan finansial** dalam satu sistem.  
+2. **Fokus pada decision support**, bukan otomatisasi penuh.  
+3. **Usability sebagai prioritas utama**, bukan kelengkapan fitur.  
+4. **Pendekatan enterprise**, sehingga sistem bisa diintegrasikan dengan infrastruktur kampus.  
 
-<!-- TODO: TARUH GAMBAR 3 DI SINI
-Deskripsi: "Comparison Snapshot" — tabel atau diagram kecil:
-To-do App | Finance App | This System
-Menunjukkan perbedaan fokus dan nilai.
-Saran format: tabel ringkas atau diagram checklist.
-Contoh pemakaian:
-![](images/comparison.png){fig-alt="System comparison" fig-cap="Posisi inovasi dibandingkan sistem yang sudah ada."}
--->
 
 ---
 

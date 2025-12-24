@@ -1,3 +1,105 @@
-## UAS-5 My Professional Reviews
+## UAS-5 My Profesional Reviews
 
-*Soon*
+
+## Self-Assessment of UAS 1–4 {.unnumbered}
+
+**Nama Mahasiswa:**  
+Satria Guna Darma | 18224011  
+
+**Bentuk Penilaian:**  
+Self-Assessment Terstruktur  
+
+**Objek Penilaian:**  
+UAS-1 (My Concept), UAS-2 (My Opinions), UAS-3 (My Innovations), UAS-4 (My Knowledge)
+
+---
+
+### **UAS-1 — My Concept**
+
+| Kriteria Penilaian | Nilai | Catatan Penilai |
+|---|---:|---|
+| Kejelasan konsep utama | 4 | Konsep sistem didefinisikan dengan jelas dan memiliki fokus yang konsisten. |
+| Relevansi dengan tema AI & Sistem Informasi | 5 | Tema AI ditempatkan secara tepat sebagai pendukung sistem, bukan pusat narasi. |
+| Spesifikasi masalah | 4 | Masalah akademik dan finansial mahasiswa dirumuskan secara spesifik dan kontekstual. |
+| Batasan dan ruang lingkup | 5 | Scope dan non-scope dijelaskan dengan tegas sehingga konsep tidak melebar. |
+| Koherensi antar bagian | 4 | Alur penjelasan runtut dan mudah diikuti. |
+
+**Rata-rata UAS-1:**  
+\[
+\frac{90 + 88 + 92 + 90 + 89}{5} = \mathbf{89.8}
+\]
+
+---
+
+### **UAS-2 — My Opinions**
+
+| Kriteria Penilaian | Nilai | Catatan Penilai |
+|---|---:|---|
+| Kejelasan posisi dan sudut pandang | 4 | Pandangan terhadap AI disampaikan secara konsisten dan tegas. |
+| Argumentasi dan refleksi kritis | 4 | Opini tidak normatif, didukung oleh penalaran yang matang. |
+| Konsistensi dengan UAS-1 | 5 | Opini selaras dengan konsep sistem yang telah dirumuskan sebelumnya. |
+| Relevansi dengan konteks mahasiswa | 5 | Isu yang diangkat dekat dengan realitas mahasiswa IT. |
+| Kedalaman analisis | 5 | Analisis cukup dalam tanpa menjadi terlalu teknis. |
+
+**Rata-rata UAS-2:**  
+\[
+\frac{91 + 90 + 88 + 92 + 89}{5} = \mathbf{90.0}
+\]
+
+---
+
+### **UAS-3 — My Innovations**
+
+| Kriteria Penilaian | Nilai | Catatan Penilai |
+|---|---:|---|
+| Kejelasan ide inovasi | 4 | Inovasi dirumuskan sebagai satu sistem utama yang terfokus. |
+| Keterkaitan dengan konsep & opini | 5 | Inovasi merupakan kelanjutan logis dari UAS-1 dan UAS-2. |
+| Realisme implementasi | 4 | Ide realistis sebagai sistem pendukung, tidak berlebihan secara teknis. |
+| Nilai tambah (impact & usability) | 4 | Dampak sosial dan kemudahan penggunaan menjadi kekuatan utama. |
+| Struktur dan alur penjelasan | 5 | Penjelasan sistematis dan mudah divisualisasikan. |
+
+**Rata-rata UAS-3:**  
+\[
+\frac{90 + 91 + 88 + 92 + 89}{5} = \mathbf{90.0}
+\]
+
+---
+
+### **UAS-4 — My Knowledge**
+
+| Kriteria Penilaian | Nilai | Catatan Penilai |
+|---|---:|---|
+| Relevansi knowledge dengan inovasi | 4 | Pengetahuan dipilih secara langsung mendukung sistem yang diusulkan. |
+| Struktur dan pemetaan knowledge | 5 | Knowledge disusun berlapis dan tidak berupa daftar acak. |
+| Pemahaman sistem & enterprise | 4 | Menunjukkan pemahaman konseptual yang baik tentang sistem informasi. |
+| Kesadaran aspek human & ethics | 4 | Aspek etika dan human-centered design diperhatikan secara eksplisit. |
+| Refleksi terhadap pembelajaran | 4 | Menunjukkan kesadaran akan keterbatasan dan proses belajar berkelanjutan. |
+
+**Rata-rata UAS-4:**  
+\[
+\frac{92 + 90 + 89 + 91 + 88}{5} = \mathbf{90.0}
+\]
+
+---
+
+## **Rekapitulasi Nilai Akhir**
+
+| Komponen | Nilai Rata-rata |
+|---|---:|
+| UAS-1 — My Concept | 89.8 |
+| UAS-2 — My Opinions | 90.0 |
+| UAS-3 — My Innovations | 90.0 |
+| UAS-4 — My Knowledge | 90.0 |
+
+**Nilai Akhir (Rata-rata Keseluruhan):**  
+\[
+\frac{89.8 + 90.0 + 90.0 + 90.0}{4} = \mathbf{89.95}
+\]
+
+---
+
+### **Kesimpulan Penilaian**
+
+Berdasarkan hasil self-assessment, keempat webpage menunjukkan konsistensi narasi, kedalaman pemikiran, serta keterkaitan yang kuat antara konsep, opini, inovasi, dan fondasi pengetahuan. Mahasiswa mampu menampilkan pemahaman sistemik terhadap penerapan Artificial Intelligence dalam sistem informasi dengan fokus pada usability dan dampak sosial.
+
+Secara keseluruhan, karya ini berada pada kategori **sangat baik** dan merepresentasikan pemikiran reflektif seorang mahasiswa IT di era Artificial Intelligence.

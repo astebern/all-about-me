@@ -23,20 +23,13 @@ Aku melihat banyak sistem digital gagal bukan karena kurang data atau kurang AI,
 
 Dalam sistem kampus, AI tidak seharusnya mengambil alih keputusan mahasiswa. Keputusan akademik dan finansial selalu memiliki aspek manusia: kondisi mental, preferensi pribadi, dan situasi yang tidak selalu bisa dimodelkan secara sempurna.
 
-Menurutku, peran AI yang ideal adalah:
-- membantu **meringkas situasi kompleks**,
-- menunjukkan **opsi yang masuk akal**,
-- dan menjelaskan **konsekuensi dari tiap opsi**.
+Menurutku, peran AI yang ideal adalah:  
+- membantu **meringkas situasi kompleks**,  
+- menunjukkan **opsi yang masuk akal**,  
+- menjelaskan **konsekuensi dari tiap opsi**.  
 
 Keputusan akhir tetap berada di tangan pengguna. Dengan begitu, sistem tidak menghilangkan agency mahasiswa, justru memperkuatnya.
 
-<!-- TODO: TARUH GAMBAR 2 DI SINI
-Deskripsi: "Human-in-the-Loop Decision Support" — diagram sederhana:
-Data → AI suggestion → User chooses/edits → Outcome.
-Saran format: flowchart 4 langkah + ikon manusia di tahap keputusan.
-Contoh pemakaian:
-![](images/hitl.png){fig-alt="Human in the loop" fig-cap="AI memberi saran, manusia tetap memutuskan."}
--->
 
 ---
 
@@ -56,19 +49,13 @@ Karena itu, aku memandang AI bukan sebagai pusat sistem, melainkan sebagai **lap
 
 Sebagai mahasiswa IT, aku sering melihat sistem kampus yang “lengkap fiturnya” tetapi jarang dipakai. Menurutku, ini bukan masalah teknologi, melainkan masalah desain.
 
-Beberapa prinsip yang menurutku krusial:
-- Sistem harus membantu pengguna **lebih cepat mengambil keputusan**, bukan menambah beban kognitif.
-- Tampilan ringkas lebih bernilai daripada laporan panjang.
-- Rekomendasi yang sedikit tapi relevan lebih berguna daripada banyak tapi membingungkan.
+Beberapa prinsip yang menurutku krusial:  
+- Sistem harus membantu pengguna **lebih cepat mengambil keputusan**, bukan menambah beban kognitif.  
+- Tampilan ringkas lebih bernilai daripada laporan panjang.  
+- Rekomendasi yang sedikit tapi relevan lebih berguna daripada banyak tapi membingungkan.  
 
 Jika sebuah sistem berbasis AI tidak membuat hidup pengguna lebih sederhana, maka sistem tersebut gagal, meskipun secara teknis sangat canggih.
 
-<!-- TODO: TARUH GAMBAR 3 DI SINI
-Deskripsi: "Usability Pyramid" — visual kecil tentang prioritas: Clarity > Speed > Features.
-Saran format: piramida 3 level atau stacked blocks, minimalis.
-Contoh pemakaian:
-![](images/usability-pyramid.png){fig-alt="Usability priority" fig-cap="Dalam sistem untuk mahasiswa, kejelasan lebih penting daripada banyak fitur."}
--->
 
 ---
 
@@ -76,20 +63,12 @@ Contoh pemakaian:
 
 AI sering dikaitkan dengan personalisasi. Aku setuju bahwa personalisasi penting, tetapi dalam sistem yang menyentuh data akademik dan finansial, **privasi harus menjadi desain awal, bukan pemikiran belakangan**.
 
-Pendapatku:
-- Data sensitif seharusnya bersifat *opt-in*, bukan *default on*.
-- Pengguna perlu tahu **kenapa sistem memberi rekomendasi tertentu**, bukan hanya menerima hasilnya.
-- Transparansi sederhana lebih penting daripada algoritma yang sepenuhnya “black box”.
+Pendapatku:  
+- Data sensitif seharusnya bersifat *opt-in*, bukan *default on*.  
+- Pengguna perlu tahu **kenapa sistem memberi rekomendasi tertentu**, bukan hanya menerima hasilnya.  
+- Transparansi sederhana lebih penting daripada algoritma yang sepenuhnya “black box”.  
 
 Dengan pendekatan ini, kepercayaan pengguna bisa dibangun tanpa mengorbankan manfaat AI.
-
-<!-- TODO: TARUH GAMBAR 4 DI SINI
-Deskripsi: "Privacy-by-Design" — diagram kecil:
-User Consent (opt-in) → Minimal Data → Clear Explanation → Trust.
-Saran format: 4 langkah dengan ikon kunci/lock, checklist, dan trust.
-Contoh pemakaian:
-![](images/privacy-by-design.png){fig-alt="Privacy by design" fig-cap="Privasi dibangun dari awal: izin pengguna, data minimal, dan penjelasan yang jelas."}
--->
 
 ---
 
@@ -97,10 +76,10 @@ Contoh pemakaian:
 
 Banyak sistem dinilai sukses karena meningkatkan efisiensi. Namun, dalam konteks mahasiswa, aku melihat indikator sukses yang lebih luas.
 
-Sistem yang baik menurutku adalah sistem yang:
-- membantu mahasiswa **mengurangi stres akibat ketidakpastian**,
-- mencegah masalah finansial kecil berkembang menjadi masalah besar,
-- dan memberi rasa kontrol terhadap hidup akademik mereka sendiri.
+Sistem yang baik menurutku adalah sistem yang:  
+- membantu mahasiswa **mengurangi stres akibat ketidakpastian**,  
+- mencegah masalah finansial kecil berkembang menjadi masalah besar,  
+-  memberi rasa kontrol terhadap hidup akademik mereka sendiri.  
 
 Jika sebuah sistem AI hanya membuat proses lebih cepat tetapi membuat pengguna merasa tertekan atau diawasi, maka dampak sosialnya patut dipertanyakan.
 

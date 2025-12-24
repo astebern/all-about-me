@@ -35,16 +35,16 @@ Dari sini, knowledge-ku aku kelompokkan menjadi beberapa lapisan inti.
 
 Lapisan pertama adalah pemahaman tentang **sistem dan enterprise architecture**, karena inovasi yang aku rancang tidak berdiri sebagai aplikasi kecil, tetapi sebagai bagian dari sistem kampus.
 
-Pengetahuan yang relevan:
-- Konsep **sistem informasi** dan alur bisnis (workflow).
-- Pemahaman tentang **enterprise system**: peran, hak akses, dan integrasi antar sistem.
-- Requirement analysis dan pemodelan sistem.
-- Pemisahan antara frontend, backend, dan data layer.
+Pengetahuan yang relevan:  
+- Konsep **sistem informasi** dan alur bisnis (workflow).  
+- Pemahaman tentang **enterprise system**: peran, hak akses, dan integrasi antar sistem.  
+- Requirement analysis dan pemodelan sistem.  
+- Pemisahan antara frontend, backend, dan data layer.  
 
-Pengetahuan ini memastikan bahwa sistem yang dirancang:
-- tidak bertabrakan dengan sistem kampus yang sudah ada,
-- dapat dikembangkan secara bertahap,
-- dan tetap maintainable dalam jangka panjang.
+Pengetahuan ini memastikan bahwa sistem yang dirancang:  
+- tidak bertabrakan dengan sistem kampus yang sudah ada,  
+- dapat dikembangkan secara bertahap,  
+- dan tetap maintainable dalam jangka panjang.  
 
 ---
 
@@ -52,11 +52,11 @@ Pengetahuan ini memastikan bahwa sistem yang dirancang:
 
 Lapisan kedua berfokus pada **data sebagai fondasi keputusan**. Tanpa pengelolaan data yang baik, AI tidak akan menghasilkan rekomendasi yang bermakna.
 
-Pengetahuan inti di lapisan ini meliputi:
-- Dasar **basis data** dan pemodelan data.
-- Alur data dari input hingga visualisasi (ETL sederhana).
-- Validasi dan konsistensi data.
-- Perancangan data yang mendukung ringkasan, bukan sekadar penyimpanan.
+Pengetahuan inti di lapisan ini meliputi:  
+- Dasar **basis data** dan pemodelan data.  
+- Alur data dari input hingga visualisasi (ETL sederhana).  
+- Validasi dan konsistensi data.  
+- Perancangan data yang mendukung ringkasan, bukan sekadar penyimpanan.  
 
 Dalam sistem yang aku rancang, data bukan untuk dianalisis secara akademik semata, tetapi untuk **mendukung keputusan cepat dan kontekstual**.
 
@@ -74,11 +74,11 @@ Contoh pemakaian:
 
 Lapisan berikutnya adalah AI, yang aku posisikan sebagai **pendukung sistem**, bukan pusat dari keseluruhan desain.
 
-Pengetahuan AI yang relevan dengan inovasi ini:
-- Konsep dasar machine learning dan rule-based systems.
-- Pemahaman bahwa tidak semua masalah perlu model kompleks.
-- Evaluasi hasil rekomendasi, bukan hanya akurasi model.
-- Explainability: kemampuan menjelaskan *mengapa* sistem memberi saran tertentu.
+Pengetahuan AI yang relevan dengan inovasi ini:  
+- Konsep dasar machine learning dan rule-based systems.  
+- Pemahaman bahwa tidak semua masalah perlu model kompleks.  
+- Evaluasi hasil rekomendasi, bukan hanya akurasi model.  
+- Explainability: kemampuan menjelaskan *mengapa* sistem memberi saran tertentu.  
 
 Dengan pemahaman ini, AI digunakan untuk:
 - mengenali pola beban akademik,
@@ -91,24 +91,16 @@ Dengan pemahaman ini, AI digunakan untuk:
 
 Sistem yang baik secara teknis bisa gagal jika tidak dipahami penggunanya. Karena itu, lapisan knowledge berikutnya adalah **human-centered design**.
 
-Pengetahuan yang relevan:
-- Prinsip dasar **UI/UX** untuk sistem informasi.
-- Reduksi beban kognitif pengguna.
-- Penyajian informasi secara ringkas dan visual.
-- Mendesain sistem agar pengguna tetap merasa memegang kendali.
+Pengetahuan yang relevan:  
+- Prinsip dasar **UI/UX** untuk sistem informasi.  
+- Reduksi beban kognitif pengguna.  
+- Penyajian informasi secara ringkas dan visual.   
+- Mendesain sistem agar pengguna tetap merasa memegang kendali.  
 
-Lapisan ini memastikan bahwa sistem:
-- tidak terasa mengintimidasi,
-- tidak terasa seperti alat pengawasan,
-- dan benar-benar membantu pengguna dalam kehidupan sehari-hari.
-
-<!-- TODO: TARUH GAMBAR 3 DI SINI
-Deskripsi: "Human-Centered System" — ilustrasi pengguna di pusat,
-dikelilingi oleh sistem, data, dan AI.
-Saran format: user-centered diagram.
-Contoh pemakaian:
-![](images/human-centered.png){fig-alt="Human centered design" fig-cap="Pengguna sebagai pusat dari sistem dan teknologi."}
--->
+Lapisan ini memastikan bahwa sistem:  
+- tidak terasa mengintimidasi,  
+- tidak terasa seperti alat pengawasan,  
+- dan benar-benar membantu pengguna dalam kehidupan sehari-hari.  
 
 ---
 
@@ -116,11 +108,11 @@ Contoh pemakaian:
 
 Lapisan terakhir adalah **etika dan tanggung jawab**, terutama karena sistem ini menyentuh data akademik dan finansial.
 
-Pengetahuan yang menurutku krusial:
-- Prinsip **privacy-by-design**.
-- Opt-in dan kontrol data oleh pengguna.
-- Transparansi rekomendasi sistem.
-- Kesadaran akan bias dan keterbatasan sistem otomatis.
+Pengetahuan yang menurutku krusial:  
+- Prinsip **privacy-by-design**.  
+- Opt-in dan kontrol data oleh pengguna.  
+- Transparansi rekomendasi sistem.  
+- Kesadaran akan bias dan keterbatasan sistem otomatis.  
 
 Lapisan ini bukan tambahan, tetapi fondasi kepercayaan yang membuat sistem layak digunakan dalam lingkungan kampus.
 
@@ -141,4 +133,4 @@ Kesadaran ini penting agar inovasi tidak berhenti sebagai konsep, tetapi berkemb
 
 Melalui My Knowledge, aku ingin menunjukkan bahwa *masterpiece* yang aku rancang tidak muncul secara tiba-tiba. Ia dibangun di atas fondasi pengetahuan yang terstruktur, relevan, dan terus berkembang.
 
-Dengan menggabungkan sistem, data, AI, dan pendekatan manusiawi, aku percaya bahwa teknologi informasi di era Artificial Intelligence dapat memberikan dampak nyata—terutama bagi mahasiswa seperti diriku sendiri.
+Dengan menggabungkan sistem, data, AI, dan pendekatan manusiawi, aku percaya bahwa teknologi informasi di era Artificial Intelligence dapat memberikan dampak nyata, terutama bagi mahasiswa seperti diriku sendiri.
